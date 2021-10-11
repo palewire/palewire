@@ -11,6 +11,7 @@ repo | description
 [californiacivicdata.org](https://github.com/california-civic-data-coalition/californiacivicdata.org)|The online home of the California Civic Data Coalition|
 [cummings.ee](https://github.com/palewire/cummings.ee)|A collection of the work of Edward Estlin Cummings, as it enters the public domain|
 [django-calaccess-downloads-website](https://github.com/california-civic-data-coalition/django-calaccess-downloads-website)|An open-source archive of campaign finance and lobbying disclosure data from the California Secretary of State’s CAL-ACCESS database|
+[django-calaccess-technical-documentation](https://github.com/california-civic-data-coalition/django-calaccess-technical-documentation)|Technical documentation for our pipeline of Django apps that download, extract, load and process the CAL-ACCESS database|
 [first-python-notebook](https://github.com/california-civic-data-coalition/first-python-notebook)|A step-by-step guide to analyzing data with Python and the Jupyter Notebook|
 [palewi.re](https://github.com/palewire/palewi.re)|My blog|
 [savemy.news](https://github.com/palewire/savemy.news)|A personal, permanent clipping service|
@@ -60,16 +61,24 @@ repo | description
 
 ## Data visualization experiments
 
-## Inactive projects
+## Inactive project
 
 repo | description
 ------------ | -------------
 [django-a-matter](https://github.com/palewire/django-a-matter)|An app for authoring background biographical matter on newsworthy people|
 [django-autoarchive](https://github.com/palewire/django-autoarchive)|Django helpers for automatically archiving URLs|
+[django-calaccess-campaign-browser](https://github.com/california-civic-data-coalition/django-calaccess-campaign-browser)|A Django app to refine, review and republish campaign finance data drawn from the California Secretary of State’s CAL-ACCESS database|
+[django-calaccess-cookbook](https://github.com/california-civic-data-coalition/django-calaccess-cookbook)|A Chef cookbook and Fabfile for deploying the California Civic Data Coalition's applications for analyzing the California Secretary of State’s CAL-ACCESS database on Amazon Web Services|
+[django-calaccess-docker](https://github.com/california-civic-data-coalition/django-calaccess-docker)|A standalone Docker stack serving the California Civic Data Coalition's applications for analyzing the California Secretary of State’s CAL-ACCESS database|
+[django-calaccess-lobbying-browser](https://github.com/california-civic-data-coalition/django-calaccess-lobbying-browser)|A simple Django app browse California lobbying activity data from CAL-ACCESS|
+[django-calaccess-project-template](https://github.com/california-civic-data-coalition/django-calaccess-project-template)|A custom template for initializing a new Django project with the California Civic Data Coalition's applications for analyzing the California Secretary of State’s CAL-ACCESS database|
 [django-correx](https://github.com/palewire/django-correx)|A set of models and template tags for pulling in lists of content changes across applications|
 [django-memento-framework](https://github.com/palewire/django-memento-framework)|A set for helpers for Django web sites to enable the Memento framework for time-based access|
 [django-urlarchivefield](https://github.com/palewire/django-urlarchivefield)|A custom Django model field that automatically archives a URL|
+[first-python-notebook-binder](https://github.com/california-civic-data-coalition/first-python-notebook-binder)|A template for deploying "First Python Notebook" with Binder|
 [pastpages.org](https://github.com/palewire/pastpages.org)|The news homepage archive|
+[python-calaccess-notebooks](https://github.com/california-civic-data-coalition/python-calaccess-notebooks)|Python notebooks analyzing campaign finance and lobbying activity data from California Secretary of State’s CAL-ACCESS database|
+[scrapy-calaccess-crawler](https://github.com/california-civic-data-coalition/scrapy-calaccess-crawler)|A Scrapy app to scrape campaign-finance data from the California Secretary of State’s CAL-ACCESS website|
 [storysniffer](https://github.com/palewire/storysniffer)|Inspect a URL and estimate if it links to news story|
 [storytracker](https://github.com/palewire/storytracker)|Tools for tracking stories on news homepages|
 [webcitation](https://github.com/palewire/webcitation)|A simple Python wrapper for the webcitation.org capturing service|
