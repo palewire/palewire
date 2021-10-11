@@ -13,6 +13,17 @@ repo | description
 [savemy.news](https://github.com/palewire/savemy.news)|A personal, permanent clipping service|
 [studs-terkel-podcast](https://github.com/palewire/studs-terkel-podcast)|Selections from WFMT's Studs Terkel Radio Archive delivered to your podcatcher|
 
+## Bots
+
+repo | description
+------------ | -------------
+[muckrockbot](https://github.com/palewire/muckrockbot)|A Twitter bot that posts the latest public records requests filed and completed at muckrock.com|
+[lapl-photo-collection-bot](https://github.com/palewire/lapl-photo-collection-bot)|A Twitter bot that posts photographs from the Los Angeles Public Library’s digital collection|
+
+## Templates
+
+TK 
+
 ## Python packages
 
 repo | description
@@ -34,6 +45,12 @@ repo | description
 [python-googlegeocoder](https://github.com/palewire/python-googlegeocoder)|A simple Python wrapper for version three of Google's geocoder API|
 [python-muckrock](https://github.com/palewire/python-muckrock)|A simple python wrapper for the MuckRock API|
 [savepagenow](https://github.com/palewire/savepagenow)|A simple Python wrapper for archive.org's "Save Page Now" capturing service|
+
+## Data analysis notebooks
+
+## Public records requests
+
+## Data visualization experiments
 
 ## Inactive projects
 
