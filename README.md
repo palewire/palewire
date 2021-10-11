@@ -26,7 +26,10 @@ repo | description
 
 ## Templates
 
-TK 
+repo | description
+------------ | -------------
+[django-heroku-template](https://github.com/palewire/django-heroku-template)|A template for Django projects hosted by Heroku|
+[python-open-source-template](https://github.com/palewire/python-open-source-template)|A template for open-source Python software repositories|
 
 ## Python packages
 
@@ -74,6 +77,7 @@ repo | description
 [django-calaccess-project-template](https://github.com/california-civic-data-coalition/django-calaccess-project-template)|A custom template for initializing a new Django project with the California Civic Data Coalition's applications for analyzing the California Secretary of State’s CAL-ACCESS database|
 [django-correx](https://github.com/palewire/django-correx)|A set of models and template tags for pulling in lists of content changes across applications|
 [django-memento-framework](https://github.com/palewire/django-memento-framework)|A set for helpers for Django web sites to enable the Memento framework for time-based access|
+[django-project-template](https://github.com/palewire/django-project-template)|A custom template for initializing a new Django project the Data Desk way|
 [django-urlarchivefield](https://github.com/palewire/django-urlarchivefield)|A custom Django model field that automatically archives a URL|
 [first-python-notebook-binder](https://github.com/california-civic-data-coalition/first-python-notebook-binder)|A template for deploying "First Python Notebook" with Binder|
 [pastpages.org](https://github.com/palewire/pastpages.org)|The news homepage archive|
