@@ -12,3 +12,10 @@ repo | description
 [palewi.re](https://github.com/palewire/palewi.re)|My blog|
 [savemy.news](https://github.com/palewire/savemy.news)|A personal, permanent clipping service|
 [studs-terkel-podcast](https://github.com/palewire/studs-terkel-podcast)|Selections from WFMT's Studs Terkel Radio Archive delivered to your podcatcher|
+
+
+## Inactive projects
+
+repo | description
+------------ | -------------
+[https://github.com/palewire/pastpages.org](https://github.com/palewire/pastpages.org)|The news homepage archive|
