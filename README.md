@@ -1,4 +1,4 @@
-![Ben Welsh](https://user-images.githubusercontent.com/9993/136835286-a01dc40c-db50-46ae-91b5-d0b566d7e582.jpeg)
+![Ben Welsh](https://user-images.githubusercontent.com/9993/136835423-0745d5d6-edf6-45b7-8795-728ecb01ba83.jpeg)
 
 Hello. My name is Ben Welsh. I’m an Iowan living in Los Angeles.
 
