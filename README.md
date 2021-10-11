@@ -60,6 +60,14 @@ repo | description
 
 ## Data analysis notebooks
 
+repo | description
+------------ | -------------
+[baseball-notebooks](https://github.com/palewire/baseball-notebooks)|Python notebooks exploring Major League Baseball data
+[drudge-domain-analysis](https://github.com/palewire/drudge-domain-analysis)|A simple example of using storytracker and the PastPages API to conduct a link analysis
+[literary-notebooks](https://github.com/palewire/literary-notebooks)|Python notebooks exploring Project Gutenberg texts
+[promenade-west-sales-report](https://github.com/palewire/promenade-west-sales-report)|An analysis of downtown Los Angeles housing prices
+
+
 ## Public records requests
 
 ## Data visualization experiments
@@ -78,12 +86,17 @@ repo | description
 [django-correx](https://github.com/palewire/django-correx)|A set of models and template tags for pulling in lists of content changes across applications|
 [django-memento-framework](https://github.com/palewire/django-memento-framework)|A set for helpers for Django web sites to enable the Memento framework for time-based access|
 [django-project-template](https://github.com/palewire/django-project-template)|A custom template for initializing a new Django project the Data Desk way|
+[django-swineflu](https://github.com/palewire/django-swineflu)|A quick and dirty data dump of the H1N1 flu vaccine locations that LA County public health currently buries in a PDF|
 [django-urlarchivefield](https://github.com/palewire/django-urlarchivefield)|A custom Django model field that automatically archives a URL|
+[everytractcount](https://github.com/palewire/everytractcount)|Statistics about every U.S. Census tract mapped by @everytract|
 [first-python-notebook-binder](https://github.com/california-civic-data-coalition/first-python-notebook-binder)|A template for deploying "First Python Notebook" with Binder|
 [pastpages.org](https://github.com/palewire/pastpages.org)|The news homepage archive|
 [python-calaccess-notebooks](https://github.com/california-civic-data-coalition/python-calaccess-notebooks)|Python notebooks analyzing campaign finance and lobbying activity data from California Secretary of State’s CAL-ACCESS database|
+[questionheds](https://github.com/palewire/questionheds)|A feed of headlines with question marks in them|
 [scrapy-calaccess-crawler](https://github.com/california-civic-data-coalition/scrapy-calaccess-crawler)|A Scrapy app to scrape campaign-finance data from the California Secretary of State’s CAL-ACCESS website|
 [storysniffer](https://github.com/palewire/storysniffer)|Inspect a URL and estimate if it links to news story|
 [storytracker](https://github.com/palewire/storytracker)|Tools for tracking stories on news homepages|
+[trump-tweets](https://github.com/palewire/trump-tweets)|All @RealDonaldTrump tweets stored at trumptwitterarchive.com in a single JSON|
+[twitter-mistadobalina](https://github.com/palewire/twitter-mistadobalina)|A script that posts raps by Del Tha Funkee Homosapien to @MISTADOBALINA on Twitter|
 [webcitation](https://github.com/palewire/webcitation)|A simple Python wrapper for the webcitation.org capturing service|
 [wordpress-memento-plugin](https://github.com/palewire/wordpress-memento-plugin)|A plugin for Wordpress web sites to enable the Memento framework for time-based access|
