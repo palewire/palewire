@@ -10,8 +10,6 @@ repo | description
 ------------ | -------------
 [californiacivicdata.org](https://github.com/california-civic-data-coalition/californiacivicdata.org)|The online home of the California Civic Data Coalition|
 [cummings.ee](https://github.com/palewire/cummings.ee)|A collection of the work of Edward Estlin Cummings, as it enters the public domain|
-[django-calaccess-downloads-website](https://github.com/california-civic-data-coalition/django-calaccess-downloads-website)|An open-source archive of campaign finance and lobbying disclosure data from the California Secretary of State’s CAL-ACCESS database|
-[django-calaccess-technical-documentation](https://github.com/california-civic-data-coalition/django-calaccess-technical-documentation)|Technical documentation for our pipeline of Django apps that download, extract, load and process the CAL-ACCESS database|
 [first-python-notebook](https://github.com/california-civic-data-coalition/first-python-notebook)|A step-by-step guide to analyzing data with Python and the Jupyter Notebook|
 [palewi.re](https://github.com/palewire/palewi.re)|My blog|
 [savemy.news](https://github.com/palewire/savemy.news)|A personal, permanent clipping service|
@@ -39,9 +37,11 @@ repo | description
 [calfire-wildfires](https://github.com/palewire/calfire-wildfires)|Download wildfires data from CalFire|
 [cpi](https://github.com/palewire/cpi)|Quickly adjust U.S. dollars for inflation using the Consumer Price Index (CPI)|
 [django-bakery](https://github.com/palewire/django-bakery)|A set of helpers for baking your Django site out as flat files|
+[django-calaccess-downloads-website](https://github.com/california-civic-data-coalition/django-calaccess-downloads-website)|An open-source archive of campaign finance and lobbying disclosure data from the California Secretary of State’s CAL-ACCESS database|
 [django-calaccess-raw-data](https://github.com/california-civic-data-coalition/django-calaccess-raw-data)|A Django app to download, extract and load campaign finance and lobbying activity data from the California Secretary of State's CAL-ACCESS database|
 [django-calaccess-processed-data](https://github.com/california-civic-data-coalition/django-calaccess-processed-data)|A Django app to transform and refine campaign-finance data from the California Secretary of State’s CAL-ACCESS database|
 [django-calaccess-scraped-data](https://github.com/california-civic-data-coalition/django-calaccess-scraped-data)|A Django app to scrape campaign-finance data from the California Secretary of State’s CAL-ACCESS website|
+[django-calaccess-technical-documentation](https://github.com/california-civic-data-coalition/django-calaccess-technical-documentation)|Technical documentation for our pipeline of Django apps that download, extract, load and process the CAL-ACCESS database|
 [django-greeking](https://github.com/palewire/django-greeking)|Django template tools for printing filler, a technique from the days of hot type known as greeking|
 [django-internetarchive-storage](https://github.com/california-civic-data-coalition/django-internetarchive-storage)|A custom Django storage system for Internet Archive collections|
 [django-postgres-copy](https://github.com/california-civic-data-coalition/django-postgres-copy)|Quickly import and export delimited data with Django support for PostgreSQL's COPY command|
