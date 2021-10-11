@@ -61,7 +61,7 @@ repo | description
 
 ## Data visualization experiments
 
-## Inactive project
+## Inactive projects
 
 repo | description
 ------------ | -------------
