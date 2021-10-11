@@ -63,6 +63,7 @@ repo | description
 repo | description
 ------------ | -------------
 [baseball-notebooks](https://github.com/palewire/baseball-notebooks)|Python notebooks exploring Major League Baseball data
+[cubs-opening-day-analysis](https://github.com/palewire/cubs-opening-day-analysis)|Analysis of the Opening Day starters for the Chicago Cubs baseball team
 [drudge-domain-analysis](https://github.com/palewire/drudge-domain-analysis)|A simple example of using storytracker and the PastPages API to conduct a link analysis
 [literary-notebooks](https://github.com/palewire/literary-notebooks)|Python notebooks exploring Project Gutenberg texts
 [promenade-west-sales-report](https://github.com/palewire/promenade-west-sales-report)|An analysis of downtown Los Angeles housing prices
@@ -90,10 +91,16 @@ repo | description
 [django-urlarchivefield](https://github.com/palewire/django-urlarchivefield)|A custom Django model field that automatically archives a URL|
 [everytractcount](https://github.com/palewire/everytractcount)|Statistics about every U.S. Census tract mapped by @everytract|
 [first-python-notebook-binder](https://github.com/california-civic-data-coalition/first-python-notebook-binder)|A template for deploying "First Python Notebook" with Binder|
+[nicar2010](https://github.com/palewire/nicar2010)|Materials from the Django bootcamp at NICAR 2010|
+[nicar2011](https://github.com/palewire/nicar2011)|An example Django app for a class at the NICAR 2011 conference|
+[ire2010](https://github.com/palewire/ire2010)|Class materials for the Django bootcamp at the IRE 2010 conference in Las Vegas|
 [pastpages.org](https://github.com/palewire/pastpages.org)|The news homepage archive|
+[pastpages2gif](https://github.com/palewire/pastpages2gif)|Create an animated GIF from the PastPages news homepage archive|
 [python-calaccess-notebooks](https://github.com/california-civic-data-coalition/python-calaccess-notebooks)|Python notebooks analyzing campaign finance and lobbying activity data from California Secretary of State’s CAL-ACCESS database|
 [questionheds](https://github.com/palewire/questionheds)|A feed of headlines with question marks in them|
 [scrapy-calaccess-crawler](https://github.com/california-civic-data-coalition/scrapy-calaccess-crawler)|A Scrapy app to scrape campaign-finance data from the California Secretary of State’s CAL-ACCESS website|
+[sopr-activity](https://github.com/palewire/sopr-activity)|A quick and dirty script for pulling down lobby disclosure docs filed with the Senate Office of Public Records|
+[sopr-contribs](https://github.com/palewire/sopr-contribs)|Scripts for processing and analyzing federal lobbyist disclosure data reporting contributions to political campaigns|
 [storysniffer](https://github.com/palewire/storysniffer)|Inspect a URL and estimate if it links to news story|
 [storytracker](https://github.com/palewire/storytracker)|Tools for tracking stories on news homepages|
 [trump-tweets](https://github.com/palewire/trump-tweets)|All @RealDonaldTrump tweets stored at trumptwitterarchive.com in a single JSON|
