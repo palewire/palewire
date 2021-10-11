@@ -8,7 +8,9 @@ This README includes a directory of my open-source work on GitHub. On my website
 
 repo | description
 ------------ | -------------
+[californiacivicdata.org](https://github.com/california-civic-data-coalition/californiacivicdata.org)|The online home of the California Civic Data Coalition|
 [cummings.ee](https://github.com/palewire/cummings.ee)|A collection of the work of Edward Estlin Cummings, as it enters the public domain|
+[django-calaccess-downloads-website](https://github.com/california-civic-data-coalition/django-calaccess-downloads-website)|An open-source archive of campaign finance and lobbying disclosure data from the California Secretary of State’s CAL-ACCESS database|
 [first-python-notebook](https://github.com/california-civic-data-coalition/first-python-notebook)|A step-by-step guide to analyzing data with Python and the Jupyter Notebook|
 [palewi.re](https://github.com/palewire/palewi.re)|My blog|
 [savemy.news](https://github.com/palewire/savemy.news)|A personal, permanent clipping service|
