@@ -18,4 +18,4 @@ repo | description
 
 repo | description
 ------------ | -------------
-[https://github.com/palewire/pastpages.org](https://github.com/palewire/pastpages.org)|The news homepage archive|
+[pastpages.org](https://github.com/palewire/pastpages.org)|The news homepage archive|
