@@ -1,4 +1,4 @@
-![Ben Welsh](https://palewi.re/static/img/ben-blue-800.jpg)
+![Ben Welsh](https://user-images.githubusercontent.com/9993/136835286-a01dc40c-db50-46ae-91b5-d0b566d7e582.jpeg)
 
 Hello. My name is Ben Welsh. I’m an Iowan living in Los Angeles.
 
