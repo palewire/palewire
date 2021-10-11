@@ -1,5 +1,3 @@
-![Ben Welsh](https://user-images.githubusercontent.com/9993/136835423-0745d5d6-edf6-45b7-8795-728ecb01ba83.jpeg)
-
 Hello. My name is Ben Welsh. I’m an Iowan living in Los Angeles.
 
 I work as a journalist, albeit an unconventional one. I specialize in what some people call [data journalism](https://en.wikipedia.org/wiki/Data_journalism) and some others call [computer-assisted reporting](https://en.wikipedia.org/wiki/Computer-assisted_reporting).
@@ -10,3 +8,7 @@ This README includes a directory of my open-source work on GitHub. On my website
 
 repo | description
 ------------ | -------------
+[cummings.ee](https://github.com/palewire/cummings.ee)|A collection of the work of Edward Estlin Cummings, as it enters the public domain|
+[palewi.re](https://github.com/palewire/palewi.re)|My blog|
+[savemy.news](https://github.com/palewire/savemy.news)|A personal, permanent clipping service|
+[studs-terkel-podcast](https://github.com/palewire/studs-terkel-podcast)|Selections from WFMT's Studs Terkel Radio Archive delivered to your podcatcher|
