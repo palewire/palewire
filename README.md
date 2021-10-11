@@ -35,7 +35,12 @@ repo | description
 [calfire-wildfires](https://github.com/palewire/calfire-wildfires)|Download wildfires data from CalFire|
 [cpi](https://github.com/palewire/cpi)|Quickly adjust U.S. dollars for inflation using the Consumer Price Index (CPI)|
 [django-bakery](https://github.com/palewire/django-bakery)|A set of helpers for baking your Django site out as flat files|
+[django-calaccess-raw-data](https://github.com/california-civic-data-coalition/django-calaccess-raw-data)|A Django app to download, extract and load campaign finance and lobbying activity data from the California Secretary of State's CAL-ACCESS database|
+[django-calaccess-processed-data](https://github.com/california-civic-data-coalition/django-calaccess-processed-data)|A Django app to transform and refine campaign-finance data from the California Secretary of State’s CAL-ACCESS database|
+[django-calaccess-scraped-data](https://github.com/california-civic-data-coalition/django-calaccess-scraped-data)|A Django app to scrape campaign-finance data from the California Secretary of State’s CAL-ACCESS website|
 [django-greeking](https://github.com/palewire/django-greeking)|Django template tools for printing filler, a technique from the days of hot type known as greeking|
+[django-internetarchive-storage(https://github.com/california-civic-data-coalition/django-internetarchive-storage)|A custom Django storage system for Internet Archive collections|
+[django-postgres-copy](https://github.com/california-civic-data-coalition/django-postgres-copy)|Quickly import and export delimited data with Django support for PostgreSQL's COPY command|
 [django-yamlfield](https://github.com/palewire/django-yamlfield)|A Django database field for storing YAML data|
 [geomac-wildfires](https://github.com/palewire/geomac-wildfires)|Download wildfires data from GeoMAC|
 [inciweb-wildfires](https://github.com/palewire/inciweb-wildfires)|Download wildfire data from inciweb|
