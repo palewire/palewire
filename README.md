@@ -39,10 +39,13 @@ repo | description
 
 repo | description
 ------------ | -------------
+[django-a-matter](https://github.com/palewire/django-a-matter)|An app for authoring background biographical matter on newsworthy people|
 [django-autoarchive](https://github.com/palewire/django-autoarchive)|Django helpers for automatically archiving URLs|
+[django-correx](https://github.com/palewire/django-correx)|A set of models and template tags for pulling in lists of content changes across applications|
 [django-memento-framework](https://github.com/palewire/django-memento-framework)|A set for helpers for Django web sites to enable the Memento framework for time-based access|
 [django-urlarchivefield](https://github.com/palewire/django-urlarchivefield)|A custom Django model field that automatically archives a URL|
 [pastpages.org](https://github.com/palewire/pastpages.org)|The news homepage archive|
 [storysniffer](https://github.com/palewire/storysniffer)|Inspect a URL and estimate if it links to news story|
 [storytracker](https://github.com/palewire/storytracker)|Tools for tracking stories on news homepages|
 [webcitation](https://github.com/palewire/webcitation)|A simple Python wrapper for the webcitation.org capturing service|
+[wordpress-memento-plugin](https://github.com/palewire/wordpress-memento-plugin)|A plugin for Wordpress web sites to enable the Memento framework for time-based access|
