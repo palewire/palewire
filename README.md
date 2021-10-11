@@ -87,6 +87,7 @@ repo | description
 [django-correx](https://github.com/palewire/django-correx)|A set of models and template tags for pulling in lists of content changes across applications|
 [django-memento-framework](https://github.com/palewire/django-memento-framework)|A set for helpers for Django web sites to enable the Memento framework for time-based access|
 [django-project-template](https://github.com/palewire/django-project-template)|A custom template for initializing a new Django project the Data Desk way|
+[django-rapture](https://github.com/palewire/django-rapture)|An archive of the Rapture Index at raptureready.com|
 [django-swineflu](https://github.com/palewire/django-swineflu)|A quick and dirty data dump of the H1N1 flu vaccine locations that LA County public health currently buries in a PDF|
 [django-urlarchivefield](https://github.com/palewire/django-urlarchivefield)|A custom Django model field that automatically archives a URL|
 [everytractcount](https://github.com/palewire/everytractcount)|Statistics about every U.S. Census tract mapped by @everytract|
