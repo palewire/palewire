@@ -2,7 +2,7 @@ Hello. My name is Ben Welsh. I’m an Iowan living in Los Angeles.
 
 I work as a journalist, albeit an unconventional one. I specialize in what some people call [data journalism](https://en.wikipedia.org/wiki/Data_journalism) and some others call [computer-assisted reporting](https://en.wikipedia.org/wiki/Computer-assisted_reporting).
 
-This README includes a directory of my open-source work on GitHub. On my website [palewi.re](https://palewi.re/who-is-ben-welsh/) you can find my résumé as well as samples of [my journalism](https://palewi.re/work/) and [my public-speaking engagements](https://palewi.re/talks/).
+This README includes a directory of my open-source work on GitHub and other coding platforms. On my website [palewi.re](https://palewi.re/who-is-ben-welsh/) you can find my résumé as well as samples of [my journalism](https://palewi.re/work/) and [my public-speaking engagements](https://palewi.re/talks/).
 
 ## Websites
 
@@ -70,6 +70,16 @@ repo | description
 
 ## Public records requests
 
+repo | description
+------------ | -------------
+[cedar-rapids-buildings-unsafe-after-derecho-2020](https://github.com/palewire/cedar-rapids-buildings-unsafe-after-derecho-2020)|Buildings marked as unsafe to occupy by the Cedar Rapids city government following the 2020 derecho storms
+[noaa-hurricane-hunters-logo](https://github.com/palewire/noaa-hurricane-hunters-logo)|An official logo of NOAA's Hurricane Hunters released via FOIA
+[nrol-39-logo](https://github.com/palewire/nrol-39-logo)|A vector PDF of the official mission logo of NROL-39 released via FOIA
+[nyc-parks-logo](https://github.com/palewire/nyc-parks-logo)|The official logos of NYC Parks released via FOIL
+[regional-connector-art](https://github.com/palewire/regional-connector-art)|Public art created for light rail stations on the Los Angeles Metro's Regional Connector line
+[usa-style-guides](https://github.com/palewire/usa-style-guides)|U.S. government style guides acquired via the Freedom of Information Act
+[usgs-anss-logo](https://github.com/palewire/usgs-anss-logo)|The logo for the U.S. Geological Survey's Advanced National Seismic System
+
 ## Python examples
 
 repo | description
@@ -81,6 +91,10 @@ repo | description
 [random-tract](https://github.com/palewire/random-tract)|A Python hack to respond to a Twitter challenge to "select a random geographic point in the US, with the probability weighted by population."
 
 ## Data visualization experiments
+
+repo | description
+------------ | -------------
+[the-many-voices-of-the-other-americans](https://observablehq.com/@datadesk/the-many-voices-of-the-other-americans)|Visualizing the rotating narrators of Laila Lalami's novel "The Other Americans"
 
 ## Inactive projects
 
