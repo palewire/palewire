@@ -68,8 +68,17 @@ repo | description
 [literary-notebooks](https://github.com/palewire/literary-notebooks)|Python notebooks exploring Project Gutenberg texts
 [promenade-west-sales-report](https://github.com/palewire/promenade-west-sales-report)|An analysis of downtown Los Angeles housing prices
 
-
 ## Public records requests
+
+## Python examples
+
+repo | description
+------------ | -------------
+[dorling-cartogram-example](https://github.com/palewire/dorling-cartogram-example)|How to calculate a dorling cartogram with Python
+[git-scraper-example](https://github.com/palewire/git-scraper-example)|A example of a git scraper that download, lints, commits and archives a data set
+[jupyter-notebook-execution-examples](https://github.com/palewire/jupyter-notebook-execution-examples)|Examples of how to remotely execute Jupyter Notebooks from other contexts|
+[pandas-combine-workbooks-example](https://github.com/palewire/pandas-combine-workbooks-example)|How to use Python's pandas library to combine tabs from multiple Microsoft Excel workbooks into a single CSV
+[random-tract](https://github.com/palewire/random-tract)|A Python hack to respond to a Twitter challenge to "select a random geographic point in the US, with the probability weighted by population."
 
 ## Data visualization experiments
 
