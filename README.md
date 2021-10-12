@@ -6,8 +6,8 @@ This README includes a directory of my open-source work on GitHub and other codi
 
 ## Websites
 
-:repo | description
------------- | -------------
+repo | description
+:----------- | :------------
 [californiacivicdata.org](https://github.com/california-civic-data-coalition/californiacivicdata.org)|The online home of the California Civic Data Coalition|
 [cummings.ee](https://github.com/palewire/cummings.ee)|A collection of the work of Edward Estlin Cummings, as it enters the public domain|
 [first-python-notebook](https://github.com/california-civic-data-coalition/first-python-notebook)|A step-by-step guide to analyzing data with Python and the Jupyter Notebook|
