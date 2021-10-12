@@ -174,6 +174,7 @@ repo | description
 [django-calaccess-project-template](https://github.com/california-civic-data-coalition/django-calaccess-project-template)|A custom template for initializing a new Django project with the California Civic Data Coalition's applications for analyzing the California Secretary of State’s CAL-ACCESS database|
 [django-correx](https://github.com/palewire/django-correx)|A set of models and template tags for pulling in lists of content changes across applications|
 [django-memento-framework](https://github.com/palewire/django-memento-framework)|A set for helpers for Django web sites to enable the Memento framework for time-based access|
+[django-orchestral-motion-db](https://github.com/orchestral-motion/django-orchestral-motion-db)|A Django channels app for receiving live motion data from an accelerometer|
 [django-project-template](https://github.com/palewire/django-project-template)|A custom template for initializing a new Django project the Data Desk way|
 [django-rapture](https://github.com/palewire/django-rapture)|An archive of the Rapture Index at raptureready.com|
 [django-swineflu](https://github.com/palewire/django-swineflu)|A quick and dirty data dump of the H1N1 flu vaccine locations that LA County public health currently buries in a PDF|
@@ -183,11 +184,12 @@ repo | description
 [first-news-app](https://github.com/ireapps/first-news-app)|A step-by-step guide to publishing a simple news application|
 [first-python-notebook-binder](https://github.com/california-civic-data-coalition/first-python-notebook-binder)|A template for deploying "First Python Notebook" with Binder|
 [first-web-scraper](https://github.com/ireapps/first-web-scraper)|A step-by-step guide to writing a web scraper with Python
+[ire2010](https://github.com/palewire/ire2010)|Class materials for the Django bootcamp at the IRE 2010 conference in Las Vegas|
 [nicar2010](https://github.com/palewire/nicar2010)|Materials from the Django bootcamp at NICAR 2010|
 [nicar2011](https://github.com/palewire/nicar2011)|An example Django app for a class at the NICAR 2011 conference|
 [nicar18-datadesk-family-reunion](https://github.com/palewire/nicar18-datadesk-family-reunion)|Los Angeles Times Data Desk Reunion @ NICAR 2018|
 [nicar19-datadesk-family-reunion](https://github.com/palewire/nicar19-datadesk-family-reunion)|Los Angeles Times Data Desk Reunion @ NICAR 2019|
-[ire2010](https://github.com/palewire/ire2010)|Class materials for the Django bootcamp at the IRE 2010 conference in Las Vegas|
+[orchestral-motion.github.io](https://github.com/orchestral-motion/orchestral-motion.github.io)|L.A. Phil hackday website|
 [pastpages.org](https://github.com/palewire/pastpages.org)|The news homepage archive|
 [pastpages2gif](https://github.com/palewire/pastpages2gif)|Create an animated GIF from the PastPages news homepage archive|
 [python-calaccess-notebooks](https://github.com/california-civic-data-coalition/python-calaccess-notebooks)|Python notebooks analyzing campaign finance and lobbying activity data from California Secretary of State’s CAL-ACCESS database|
