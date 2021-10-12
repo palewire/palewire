@@ -30,6 +30,7 @@ repo | description
 [californiacivicdata.org](https://github.com/california-civic-data-coalition/californiacivicdata.org)|The online home of the California Civic Data Coalition|
 [cummings.ee](https://github.com/palewire/cummings.ee)|A collection of the work of Edward Estlin Cummings, as it enters the public domain|
 [first-python-notebook](https://github.com/california-civic-data-coalition/first-python-notebook)|A step-by-step guide to analyzing data with Python and the Jupyter Notebook|
+[first-graphics-app](https://github.com/ireapps/first-graphics-app)|A step-by-step guide to publishing a standalone story from a dataset|
 [palewi.re](https://github.com/palewire/palewi.re)|My blog|
 [savemy.news](https://github.com/palewire/savemy.news)|A personal, permanent clipping service|
 [studs-terkel-podcast](https://github.com/palewire/studs-terkel-podcast)|Selections from WFMT's Studs Terkel Radio Archive delivered to your podcatcher|
@@ -148,7 +149,10 @@ repo | description
 [django-swineflu](https://github.com/palewire/django-swineflu)|A quick and dirty data dump of the H1N1 flu vaccine locations that LA County public health currently buries in a PDF|
 [django-urlarchivefield](https://github.com/palewire/django-urlarchivefield)|A custom Django model field that automatically archives a URL|
 [everytractcount](https://github.com/palewire/everytractcount)|Statistics about every U.S. Census tract mapped by @everytract|
+[first-django-admin](https://github.com/ireapps/first-django-admin)|A step-by-step guide to creating a simple web application that empowers you to enlist reporters in data entry and refinement|
+[first-news-app](https://github.com/ireapps/first-news-app)|A step-by-step guide to publishing a simple news application|
 [first-python-notebook-binder](https://github.com/california-civic-data-coalition/first-python-notebook-binder)|A template for deploying "First Python Notebook" with Binder|
+[first-web-scraper](https://github.com/ireapps/first-web-scraper)|A step-by-step guide to writing a web scraper with Python
 [nicar2010](https://github.com/palewire/nicar2010)|Materials from the Django bootcamp at NICAR 2010|
 [nicar2011](https://github.com/palewire/nicar2011)|An example Django app for a class at the NICAR 2011 conference|
 [nicar18-datadesk-family-reunion](https://github.com/palewire/nicar18-datadesk-family-reunion)|Los Angeles Times Data Desk Reunion @ NICAR 2018|
