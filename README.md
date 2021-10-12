@@ -4,7 +4,9 @@ I work as a journalist, albeit an unconventional one. I specialize in what some 
 
 This README includes a directory of my open-source computer programming work on GitHub and other coding platforms. It does not include my published journalism. On my website [palewi.re](https://palewi.re/who-is-ben-welsh/) you can find my résumé as well as a database of [my news work](https://palewi.re/work/) and [my public-speaking engagements](https://palewi.re/talks/).
 
-## Websites
+## Products
+
+### Websites
 
 repo | description
 :----------- | :------------
@@ -15,21 +17,47 @@ repo | description
 [savemy.news](https://github.com/palewire/savemy.news)|A personal, permanent clipping service|
 [studs-terkel-podcast](https://github.com/palewire/studs-terkel-podcast)|Selections from WFMT's Studs Terkel Radio Archive delivered to your podcatcher|
 
-## Bots
+### Bots
 
 repo | description
 :----------- | :------------
 [muckrockbot](https://github.com/palewire/muckrockbot)|A Twitter bot that posts the latest public records requests filed and completed at muckrock.com|
 [lapl-photo-collection-bot](https://github.com/palewire/lapl-photo-collection-bot)|A Twitter bot that posts photographs from the Los Angeles Public Library’s digital collection|
 
-## Templates
+## Data
+
+### Computational notebooks
+
+repo | description
+:----------- | :------------
+[baseball-notebooks](https://github.com/palewire/baseball-notebooks)|Python notebooks exploring Major League Baseball data
+[cubs-opening-day-analysis](https://github.com/palewire/cubs-opening-day-analysis)|Analysis of the Opening Day starters for the Chicago Cubs baseball team
+[drudge-domain-analysis](https://github.com/palewire/drudge-domain-analysis)|A simple example of using storytracker and the PastPages API to conduct a link analysis
+[literary-notebooks](https://github.com/palewire/literary-notebooks)|Python notebooks exploring Project Gutenberg texts
+[promenade-west-sales-report](https://github.com/palewire/promenade-west-sales-report)|An analysis of downtown Los Angeles housing prices
+
+### Public records requests
+
+repo | description
+:----------- | :------------
+[cedar-rapids-buildings-unsafe-after-derecho-2020](https://github.com/palewire/cedar-rapids-buildings-unsafe-after-derecho-2020)|Buildings marked as unsafe to occupy by the Cedar Rapids city government following the 2020 derecho storms
+[noaa-hurricane-hunters-logo](https://github.com/palewire/noaa-hurricane-hunters-logo)|An official logo of NOAA's Hurricane Hunters released via FOIA
+[nrol-39-logo](https://github.com/palewire/nrol-39-logo)|A vector PDF of the official mission logo of NROL-39 released via FOIA
+[nyc-parks-logo](https://github.com/palewire/nyc-parks-logo)|The official logos of NYC Parks released via FOIL
+[regional-connector-art](https://github.com/palewire/regional-connector-art)|Public art created for light rail stations on the Los Angeles Metro's Regional Connector line
+[usa-style-guides](https://github.com/palewire/usa-style-guides)|U.S. government style guides acquired via the Freedom of Information Act
+[usgs-anss-logo](https://github.com/palewire/usgs-anss-logo)|The logo for the U.S. Geological Survey's Advanced National Seismic System
+
+## Python
+
+### Templates
 
 repo | description
 :----------- | :------------
 [django-heroku-template](https://github.com/palewire/django-heroku-template)|A template for Django projects hosted by Heroku|
 [python-open-source-template](https://github.com/palewire/python-open-source-template)|A template for open-source Python software repositories|
 
-## Python packages
+### Packages
 
 repo | description
 :----------- | :------------
@@ -58,29 +86,7 @@ repo | description
 [python-muckrock](https://github.com/palewire/python-muckrock)|A simple python wrapper for the MuckRock API|
 [savepagenow](https://github.com/palewire/savepagenow)|A simple Python wrapper for archive.org's "Save Page Now" capturing service|
 
-## Data analysis notebooks
-
-repo | description
-:----------- | :------------
-[baseball-notebooks](https://github.com/palewire/baseball-notebooks)|Python notebooks exploring Major League Baseball data
-[cubs-opening-day-analysis](https://github.com/palewire/cubs-opening-day-analysis)|Analysis of the Opening Day starters for the Chicago Cubs baseball team
-[drudge-domain-analysis](https://github.com/palewire/drudge-domain-analysis)|A simple example of using storytracker and the PastPages API to conduct a link analysis
-[literary-notebooks](https://github.com/palewire/literary-notebooks)|Python notebooks exploring Project Gutenberg texts
-[promenade-west-sales-report](https://github.com/palewire/promenade-west-sales-report)|An analysis of downtown Los Angeles housing prices
-
-## Public records requests
-
-repo | description
-:----------- | :------------
-[cedar-rapids-buildings-unsafe-after-derecho-2020](https://github.com/palewire/cedar-rapids-buildings-unsafe-after-derecho-2020)|Buildings marked as unsafe to occupy by the Cedar Rapids city government following the 2020 derecho storms
-[noaa-hurricane-hunters-logo](https://github.com/palewire/noaa-hurricane-hunters-logo)|An official logo of NOAA's Hurricane Hunters released via FOIA
-[nrol-39-logo](https://github.com/palewire/nrol-39-logo)|A vector PDF of the official mission logo of NROL-39 released via FOIA
-[nyc-parks-logo](https://github.com/palewire/nyc-parks-logo)|The official logos of NYC Parks released via FOIL
-[regional-connector-art](https://github.com/palewire/regional-connector-art)|Public art created for light rail stations on the Los Angeles Metro's Regional Connector line
-[usa-style-guides](https://github.com/palewire/usa-style-guides)|U.S. government style guides acquired via the Freedom of Information Act
-[usgs-anss-logo](https://github.com/palewire/usgs-anss-logo)|The logo for the U.S. Geological Survey's Advanced National Seismic System
-
-## Python examples
+### Examples
 
 repo | description
 :----------- | :------------
@@ -90,7 +96,9 @@ repo | description
 [pandas-combine-workbooks-example](https://github.com/palewire/pandas-combine-workbooks-example)|How to use Python's pandas library to combine tabs from multiple Microsoft Excel workbooks into a single CSV
 [random-tract](https://github.com/palewire/random-tract)|A Python hack to respond to a Twitter challenge to "select a random geographic point in the US, with the probability weighted by population."
 
-## Data visualization experiments
+## JavaScript
+
+### Examples
 
 repo | description
 :----------- | :------------
