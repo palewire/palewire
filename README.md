@@ -7,19 +7,19 @@ This README includes a directory of my open-source computer code on GitHub and o
 ## Table of contents
 
 + [Products](#products)
-  - Websites
-  - Bots
-+ Data
-  - Computational notebooks
-  - Public records requests
-+ Python
-  - Templates
-  - Packages
-  - Examples
-+ JavaScript
-  - Examples
-+ Other stuff
-+ Inactive projects
+  - [Websites](#websites)
+  - [Bots](#bots)
++ [Data](#data)
+  - [Computational notebooks](#computational-notebooks)
+  - [Public records requests](#public-records-requests)
++ [Python](#python)
+  - [Templates](#templates)
+  - [Packages](#packages)
+  - [Examples](#examples)
++ [JavaScript](#javascript)
+  - [Examples](#examples-1)
++ [Other stuff](#other-stuff)
++ [Inactive projects](#inactive-projects)
 
 ## Products
 
