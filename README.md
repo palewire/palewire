@@ -94,7 +94,16 @@ repo | description
 
 repo | description
 :----------- | :------------
+[how-iowa-voted](https://github.com/palewire/how-iowa-voted)|How Iowa Voted
+[the-ichiro-bet](https://observablehq.com/@palewire/the-ichiro-bet)|The Ichiro Bet
 [the-many-voices-of-the-other-americans](https://observablehq.com/@datadesk/the-many-voices-of-the-other-americans)|Visualizing the rotating narrators of Laila Lalami's novel "The Other Americans"
+
+## Other stuff
+
+repo | description
+:----------- | :------------
+[dotfiles](https://github.com/palewire/dotfiles)|My configuration files
+[ebook-exports](https://github.com/palewire/ebook-exports)|Export the e.e. cummings free poetry archive to a variety of ebook formats
 
 ## Inactive projects
 
@@ -117,6 +126,8 @@ repo | description
 [first-python-notebook-binder](https://github.com/california-civic-data-coalition/first-python-notebook-binder)|A template for deploying "First Python Notebook" with Binder|
 [nicar2010](https://github.com/palewire/nicar2010)|Materials from the Django bootcamp at NICAR 2010|
 [nicar2011](https://github.com/palewire/nicar2011)|An example Django app for a class at the NICAR 2011 conference|
+[nicar18-datadesk-family-reunion](https://github.com/palewire/nicar18-datadesk-family-reunion)|Los Angeles Times Data Desk Reunion @ NICAR 2018|
+[nicar19-datadesk-family-reunion](https://github.com/palewire/nicar19-datadesk-family-reunion)|Los Angeles Times Data Desk Reunion @ NICAR 2019|
 [ire2010](https://github.com/palewire/ire2010)|Class materials for the Django bootcamp at the IRE 2010 conference in Las Vegas|
 [pastpages.org](https://github.com/palewire/pastpages.org)|The news homepage archive|
 [pastpages2gif](https://github.com/palewire/pastpages2gif)|Create an animated GIF from the PastPages news homepage archive|
@@ -127,6 +138,7 @@ repo | description
 [sopr-contribs](https://github.com/palewire/sopr-contribs)|Scripts for processing and analyzing federal lobbyist disclosure data reporting contributions to political campaigns|
 [storysniffer](https://github.com/palewire/storysniffer)|Inspect a URL and estimate if it links to news story|
 [storytracker](https://github.com/palewire/storytracker)|Tools for tracking stories on news homepages|
+[the-mondesi-bet](https://github.com/palewire/the-mondesi-bet)|The Mondesi Bet|
 [trump-tweets](https://github.com/palewire/trump-tweets)|All @RealDonaldTrump tweets stored at trumptwitterarchive.com in a single JSON|
 [twitter-mistadobalina](https://github.com/palewire/twitter-mistadobalina)|A script that posts raps by Del Tha Funkee Homosapien to @MISTADOBALINA on Twitter|
 [webcitation](https://github.com/palewire/webcitation)|A simple Python wrapper for the webcitation.org capturing service|
