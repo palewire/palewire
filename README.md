@@ -6,7 +6,7 @@ This README includes a directory of my open-source computer code on GitHub and o
 
 ## Table of contents
 
-+ Products
++ [Products](#products)
   - Websites
   - Bots
 + Data
