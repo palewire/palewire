@@ -18,21 +18,21 @@ repo | description
 ## Bots
 
 repo | description
------------- | -------------
+:----------- | :------------
 [muckrockbot](https://github.com/palewire/muckrockbot)|A Twitter bot that posts the latest public records requests filed and completed at muckrock.com|
 [lapl-photo-collection-bot](https://github.com/palewire/lapl-photo-collection-bot)|A Twitter bot that posts photographs from the Los Angeles Public Library’s digital collection|
 
 ## Templates
 
 repo | description
------------- | -------------
+:----------- | :------------
 [django-heroku-template](https://github.com/palewire/django-heroku-template)|A template for Django projects hosted by Heroku|
 [python-open-source-template](https://github.com/palewire/python-open-source-template)|A template for open-source Python software repositories|
 
 ## Python packages
 
 repo | description
------------- | -------------
+:----------- | :------------
 [archiveis](https://github.com/palewire/archiveis)|A simple Python wrapper for the archive.is capturing service|
 [calfire-wildfires](https://github.com/palewire/calfire-wildfires)|Download wildfires data from CalFire|
 [cpi](https://github.com/palewire/cpi)|Quickly adjust U.S. dollars for inflation using the Consumer Price Index (CPI)|
@@ -61,7 +61,7 @@ repo | description
 ## Data analysis notebooks
 
 repo | description
------------- | -------------
+:----------- | :------------
 [baseball-notebooks](https://github.com/palewire/baseball-notebooks)|Python notebooks exploring Major League Baseball data
 [cubs-opening-day-analysis](https://github.com/palewire/cubs-opening-day-analysis)|Analysis of the Opening Day starters for the Chicago Cubs baseball team
 [drudge-domain-analysis](https://github.com/palewire/drudge-domain-analysis)|A simple example of using storytracker and the PastPages API to conduct a link analysis
@@ -71,7 +71,7 @@ repo | description
 ## Public records requests
 
 repo | description
------------- | -------------
+:----------- | :------------
 [cedar-rapids-buildings-unsafe-after-derecho-2020](https://github.com/palewire/cedar-rapids-buildings-unsafe-after-derecho-2020)|Buildings marked as unsafe to occupy by the Cedar Rapids city government following the 2020 derecho storms
 [noaa-hurricane-hunters-logo](https://github.com/palewire/noaa-hurricane-hunters-logo)|An official logo of NOAA's Hurricane Hunters released via FOIA
 [nrol-39-logo](https://github.com/palewire/nrol-39-logo)|A vector PDF of the official mission logo of NROL-39 released via FOIA
@@ -83,7 +83,7 @@ repo | description
 ## Python examples
 
 repo | description
------------- | -------------
+:----------- | :------------
 [dorling-cartogram-example](https://github.com/palewire/dorling-cartogram-example)|How to calculate a dorling cartogram with Python
 [git-scraper-example](https://github.com/palewire/git-scraper-example)|A example of a git scraper that download, lints, commits and archives a data set
 [jupyter-notebook-execution-examples](https://github.com/palewire/jupyter-notebook-execution-examples)|Examples of how to remotely execute Jupyter Notebooks from other contexts|
@@ -93,13 +93,13 @@ repo | description
 ## Data visualization experiments
 
 repo | description
------------- | -------------
+:----------- | :------------
 [the-many-voices-of-the-other-americans](https://observablehq.com/@datadesk/the-many-voices-of-the-other-americans)|Visualizing the rotating narrators of Laila Lalami's novel "The Other Americans"
 
 ## Inactive projects
 
 repo | description
------------- | -------------
+:----------- | :------------
 [django-a-matter](https://github.com/palewire/django-a-matter)|An app for authoring background biographical matter on newsworthy people|
 [django-autoarchive](https://github.com/palewire/django-autoarchive)|Django helpers for automatically archiving URLs|
 [django-calaccess-campaign-browser](https://github.com/california-civic-data-coalition/django-calaccess-campaign-browser)|A Django app to refine, review and republish campaign finance data drawn from the California Secretary of State’s CAL-ACCESS database|
