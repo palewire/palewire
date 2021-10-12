@@ -11,6 +11,7 @@ This README includes a directory of my open-source computer code on GitHub and o
   - [Bots](#bots)
 + [Data](#data)
   - [Computational notebooks](#computational-notebooks)
+  - [Git scrapers](#git-scrapers)
   - [Public records requests](#public-records-requests)
 + [Python](#python)
   - [Templates](#templates)
@@ -49,10 +50,36 @@ repo | description
 repo | description
 :----------- | :------------
 [baseball-notebooks](https://github.com/palewire/baseball-notebooks)|Python notebooks exploring Major League Baseball data
+[california-crop-production-wages-analysis](https://github.com/datadesk/california-crop-production-wages-analysis)|Crop worker pay in California
+[california-electricity-capacity-analysis](https://github.com/datadesk/california-electricity-capacity-analysis)|California's costly power glut
+[california-fire-zone-analysis](https://github.com/datadesk/california-fire-zone-analysis)|California buildings within fire hazard zones
+[california-h2a-visas-analysis](https://github.com/datadesk/california-h2a-visas-analysis)|Temporary visas granted to foreign agricultural workers
+[census-hard-to-map-analysis](https://github.com/datadesk/census-hard-to-map-analysis)|A census undercount could cost California billions — and L.A. is famously hard to track
+[construction-jobs-analysis](https://github.com/datadesk/construction-jobs-analysis)|Demographics and pay of construction workers
 [cubs-opening-day-analysis](https://github.com/palewire/cubs-opening-day-analysis)|Analysis of the Opening Day starters for the Chicago Cubs baseball team
+[deadspin-scraper](https://github.com/datadesk/deadspin-scraper)|Scrape posts from Deadspin
+[deleon-district-election-results-analysis](https://github.com/datadesk/deleon-district-election-results-analysis)|How former state Sen. Kevin de León fared in his own district
 [drudge-domain-analysis](https://github.com/palewire/drudge-domain-analysis)|A simple example of using storytracker and the PastPages API to conduct a link analysis
+[ferc-enforcement-analysis](https://github.com/datadesk/ferc-enforcement-analysis)|Civil penalties issued by FERC
+[helicopter-accident-analysis](https://github.com/datadesk/helicopter-accident-analysis)|A Los Angeles Times analysis of helicopter accident rates
+[hollister-ranch-analysis](https://github.com/datadesk/hollister-ranch-analysis)|Agricultural property tax breaks in Hollister Ranch
+[houston-flood-zone-analysis](https://github.com/datadesk/houston-flood-zone-analysis)|Geospatial analysis of Houston homes after Hurricane Harvey
+[hsr-document-analysis](https://github.com/datadesk/hsr-document-analysis)|How California’s faltering high-speed rail project was ‘captured’ by costly consultants
+[la-settlements-analysis](https://github.com/datadesk/la-settlements-analysis)|Legal  payouts by L.A. city
+[la-vacant-building-complaints-analysis](https://github.com/datadesk/la-vacant-building-complaints-analysis)|Vacant building complaints filed with L.A. city
+[la-weedmaps-analysis](https://github.com/datadesk/la-weedmaps-analysis)|Black market cannabis shops thrive in L.A. even as city cracks down
 [literary-notebooks](https://github.com/palewire/literary-notebooks)|Python notebooks exploring Project Gutenberg texts
+[native-american-census-analysis](https://github.com/datadesk/native-american-census-analysis)|The 2020 census is coming. Will Native Americans be counted?
 [promenade-west-sales-report](https://github.com/palewire/promenade-west-sales-report)|An analysis of downtown Los Angeles housing prices
+[street-racing-analysis](https://github.com/datadesk/street-racing-analysis)|Street racing fatalities in L.A. County
+[swana-census-analysis](https://github.com/datadesk/swana-census-analysis)|Are Arabs and Iranians white? Census says yes, but many disagree
+
+### Git scrapers
+
+repo | description
+:----------- | :------------
+[california-coronavirus-data](https://github.com/datadesk/california-coronavirus-data)|The Los Angeles Times' open-source archive of California coronavirus data
+[california-coronavirus-scrapers](https://github.com/datadesk/california-coronavirus-scrapers)|The open-source web scrapers that feed the Los Angeles Times California coronavirus tracker
 
 ### Public records requests
 
@@ -136,6 +163,7 @@ repo | description
 
 repo | description
 :----------- | :------------
+[california-k12-notebooks](https://github.com/datadesk/california-k12-notebooks)|Scripts to download and process California K12 schools data
 [django-a-matter](https://github.com/palewire/django-a-matter)|An app for authoring background biographical matter on newsworthy people|
 [django-autoarchive](https://github.com/palewire/django-autoarchive)|Django helpers for automatically archiving URLs|
 [django-calaccess-campaign-browser](https://github.com/california-civic-data-coalition/django-calaccess-campaign-browser)|A Django app to refine, review and republish campaign finance data drawn from the California Secretary of State’s CAL-ACCESS database|
