@@ -106,6 +106,7 @@ repo | description
 
 repo | description
 :----------- | :------------
+[altair](https://github.com/altair-viz/altair)|Declarative statistical visualization library for Python|
 [archiveis](https://github.com/palewire/archiveis)|A simple Python wrapper for the archive.is capturing service|
 [calfire-wildfires](https://github.com/palewire/calfire-wildfires)|Download wildfires data from CalFire|
 [cpi](https://github.com/palewire/cpi)|Quickly adjust U.S. dollars for inflation using the Consumer Price Index (CPI)|
