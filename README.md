@@ -120,6 +120,7 @@ repo | description
 
 repo | description
 :----------- | :------------
+[election-2013](https://github.com/palermo-hollywood/election-2013)|Resultados de las Oct. 2013 Buenos Aires elecciones
 [how-iowa-voted](https://github.com/palewire/how-iowa-voted)|How Iowa Voted
 [the-ichiro-bet](https://observablehq.com/@palewire/the-ichiro-bet)|The Ichiro Bet
 [the-many-voices-of-the-other-americans](https://observablehq.com/@datadesk/the-many-voices-of-the-other-americans)|Visualizing the rotating narrators of Laila Lalami's novel "The Other Americans"
