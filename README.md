@@ -4,6 +4,23 @@ I work as a journalist, albeit an unconventional one. I specialize in what some 
 
 This README includes a directory of my open-source computer programming work on GitHub and other coding platforms. It does not include my published journalism. On my website [palewi.re](https://palewi.re/who-is-ben-welsh/) you can find my résumé as well as a database of [my news work](https://palewi.re/work/) and [my public-speaking engagements](https://palewi.re/talks/).
 
+## Table of contents
+
++ Products
+  - Websites
+  - Bots
++ Data
+  - Computational notebooks
+  - Public records requests
++ Python
+  - Templates
+  - Packages
+  - Examples
++ JavaScript
+  - Examples
++ Other stuff
++ Inactive projects
+
 ## Products
 
 ### Websites
