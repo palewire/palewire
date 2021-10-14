@@ -148,8 +148,16 @@ repo | description
 
 repo | description
 :----------- | :------------
+[10 PRINT CHR$(205.5+RND(1)); : GOTO 10 RUN](https://observablehq.com/@palewire/10-print-chr-205-5-rnd-1-goto-10-run)|A popular one-line script for the Commodore 64
+[2018 year in review](https://observablehq.com/@palewire/2018-year-in-review-the-los-angeles-times-master-branch)|The Los Angeles Times' master branch
+[california-in-mercator](https://observablehq.com/@palewire/california-in-mercator)|A base map of the state
+[d3-curve-inputs](https://observablehq.com/@palewire/d3-curves-inputs)|A list of all the d3 curve options
 [election-2013](https://github.com/palermo-hollywood/election-2013)|Resultados de las Oct. 2013 Buenos Aires elecciones
 [how-iowa-voted](https://github.com/palewire/how-iowa-voted)|How Iowa Voted
+[Load d3 data incrementally using a sorted value](https://observablehq.com/@palewire/load-d3-data-incrementally-using-a-sorted-value)|Gradually loads all the cities of California from north to south, and then removes them from south to north.
+[Regional maps of California buildings in fire hazard zones](https://observablehq.com/@palewire/regional-maps-of-california-buildings-in-fire-hazard-zones)|The Los Angeles Times conducted an analysis of California buildings within fire hazard zones
+[save-csv](https://observablehq.com/@palewire/saving-csv)|Download a JSON object as comma-separated values
+[save-json](https://observablehq.com/@palewire/saving-json)|Download a JSON object as a plain text file
 [the-ichiro-bet](https://observablehq.com/@palewire/the-ichiro-bet)|The Ichiro Bet
 [the-many-voices-of-the-other-americans](https://observablehq.com/@datadesk/the-many-voices-of-the-other-americans)|Visualizing the rotating narrators of Laila Lalami's novel "The Other Americans"
 
