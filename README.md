@@ -162,45 +162,67 @@ repo | description
 
 ## Inactive projects
 
+### Websites
+
 repo | description
 :----------- | :------------
-[california-k12-notebooks](https://github.com/datadesk/california-k12-notebooks)|Scripts to download and process California K12 schools data
+[first-django-admin](https://github.com/ireapps/first-django-admin)|A step-by-step guide to creating a simple web application that empowers you to enlist reporters in data entry and refinement|
+[first-news-app](https://github.com/ireapps/first-news-app)|A step-by-step guide to publishing a simple news application|
+[first-web-scraper](https://github.com/ireapps/first-web-scraper)|A step-by-step guide to writing a web scraper with Python
+[nicar18-datadesk-family-reunion](https://github.com/palewire/nicar18-datadesk-family-reunion)|Los Angeles Times Data Desk Reunion @ NICAR 2018|
+[nicar19-datadesk-family-reunion](https://github.com/palewire/nicar19-datadesk-family-reunion)|Los Angeles Times Data Desk Reunion @ NICAR 2019|
+[orchestral-motion.github.io](https://github.com/orchestral-motion/orchestral-motion.github.io)|L.A. Phil hackday website|
+[pastpages.org](https://github.com/palewire/pastpages.org)|The news homepage archive|
+
+### Bots
+
+repo | description
+:----------- | :------------
+[everytractcount](https://github.com/palewire/everytractcount)|Statistics about every U.S. Census tract mapped by @everytract|
+[mistadobalina](https://github.com/palewire/twitter-mistadobalina)|A script that posts raps by Del Tha Funkee Homosapien to @MISTADOBALINA on Twitter|
+[questionheds](https://github.com/palewire/questionheds)|A feed of headlines with question marks in them|
+[trump-tweets](https://github.com/palewire/trump-tweets)|All @RealDonaldTrump tweets stored at trumptwitterarchive.com in a single JSON|
+
+### Templates
+
+repo | description
+:----------- | :------------
+[django-project-template](https://github.com/palewire/django-project-template)|A custom template for initializing a new Django project the Data Desk way|
+[django-calaccess-project-template](https://github.com/california-civic-data-coalition/django-calaccess-project-template)|A custom template for initializing a new Django project with the California Civic Data Coalition's applications for analyzing the California Secretary of State’s CAL-ACCESS database|
+
+### Packages
+
+repo | description
+:----------- | :------------
 [django-a-matter](https://github.com/palewire/django-a-matter)|An app for authoring background biographical matter on newsworthy people|
 [django-autoarchive](https://github.com/palewire/django-autoarchive)|Django helpers for automatically archiving URLs|
 [django-calaccess-campaign-browser](https://github.com/california-civic-data-coalition/django-calaccess-campaign-browser)|A Django app to refine, review and republish campaign finance data drawn from the California Secretary of State’s CAL-ACCESS database|
 [django-calaccess-cookbook](https://github.com/california-civic-data-coalition/django-calaccess-cookbook)|A Chef cookbook and Fabfile for deploying the California Civic Data Coalition's applications for analyzing the California Secretary of State’s CAL-ACCESS database on Amazon Web Services|
 [django-calaccess-docker](https://github.com/california-civic-data-coalition/django-calaccess-docker)|A standalone Docker stack serving the California Civic Data Coalition's applications for analyzing the California Secretary of State’s CAL-ACCESS database|
 [django-calaccess-lobbying-browser](https://github.com/california-civic-data-coalition/django-calaccess-lobbying-browser)|A simple Django app browse California lobbying activity data from CAL-ACCESS|
-[django-calaccess-project-template](https://github.com/california-civic-data-coalition/django-calaccess-project-template)|A custom template for initializing a new Django project with the California Civic Data Coalition's applications for analyzing the California Secretary of State’s CAL-ACCESS database|
 [django-correx](https://github.com/palewire/django-correx)|A set of models and template tags for pulling in lists of content changes across applications|
 [django-memento-framework](https://github.com/palewire/django-memento-framework)|A set for helpers for Django web sites to enable the Memento framework for time-based access|
 [django-orchestral-motion-db](https://github.com/orchestral-motion/django-orchestral-motion-db)|A Django channels app for receiving live motion data from an accelerometer|
-[django-project-template](https://github.com/palewire/django-project-template)|A custom template for initializing a new Django project the Data Desk way|
 [django-rapture](https://github.com/palewire/django-rapture)|An archive of the Rapture Index at raptureready.com|
 [django-swineflu](https://github.com/palewire/django-swineflu)|A quick and dirty data dump of the H1N1 flu vaccine locations that LA County public health currently buries in a PDF|
 [django-urlarchivefield](https://github.com/palewire/django-urlarchivefield)|A custom Django model field that automatically archives a URL|
-[everytractcount](https://github.com/palewire/everytractcount)|Statistics about every U.S. Census tract mapped by @everytract|
-[first-django-admin](https://github.com/ireapps/first-django-admin)|A step-by-step guide to creating a simple web application that empowers you to enlist reporters in data entry and refinement|
-[first-news-app](https://github.com/ireapps/first-news-app)|A step-by-step guide to publishing a simple news application|
+[pastpages2gif](https://github.com/palewire/pastpages2gif)|Create an animated GIF from the PastPages news homepage archive|
+[scrapy-calaccess-crawler](https://github.com/california-civic-data-coalition/scrapy-calaccess-crawler)|A Scrapy app to scrape campaign-finance data from the California Secretary of State’s CAL-ACCESS website|
+[storysniffer](https://github.com/palewire/storysniffer)|Inspect a URL and estimate if it links to news story|
+[storytracker](https://github.com/palewire/storytracker)|Tools for tracking stories on news homepages|
+[webcitation](https://github.com/palewire/webcitation)|A simple Python wrapper for the webcitation.org capturing service|
+[wordpress-memento-plugin](https://github.com/palewire/wordpress-memento-plugin)|A plugin for Wordpress web sites to enable the Memento framework for time-based access|
+
+### Other
+
+repo | description
+:----------- | :------------
+[california-k12-notebooks](https://github.com/datadesk/california-k12-notebooks)|Scripts to download and process California K12 schools data
 [first-python-notebook-binder](https://github.com/california-civic-data-coalition/first-python-notebook-binder)|A template for deploying "First Python Notebook" with Binder|
-[first-web-scraper](https://github.com/ireapps/first-web-scraper)|A step-by-step guide to writing a web scraper with Python
 [ire2010](https://github.com/palewire/ire2010)|Class materials for the Django bootcamp at the IRE 2010 conference in Las Vegas|
 [nicar2010](https://github.com/palewire/nicar2010)|Materials from the Django bootcamp at NICAR 2010|
 [nicar2011](https://github.com/palewire/nicar2011)|An example Django app for a class at the NICAR 2011 conference|
-[nicar18-datadesk-family-reunion](https://github.com/palewire/nicar18-datadesk-family-reunion)|Los Angeles Times Data Desk Reunion @ NICAR 2018|
-[nicar19-datadesk-family-reunion](https://github.com/palewire/nicar19-datadesk-family-reunion)|Los Angeles Times Data Desk Reunion @ NICAR 2019|
-[orchestral-motion.github.io](https://github.com/orchestral-motion/orchestral-motion.github.io)|L.A. Phil hackday website|
-[pastpages.org](https://github.com/palewire/pastpages.org)|The news homepage archive|
-[pastpages2gif](https://github.com/palewire/pastpages2gif)|Create an animated GIF from the PastPages news homepage archive|
 [python-calaccess-notebooks](https://github.com/california-civic-data-coalition/python-calaccess-notebooks)|Python notebooks analyzing campaign finance and lobbying activity data from California Secretary of State’s CAL-ACCESS database|
-[questionheds](https://github.com/palewire/questionheds)|A feed of headlines with question marks in them|
-[scrapy-calaccess-crawler](https://github.com/california-civic-data-coalition/scrapy-calaccess-crawler)|A Scrapy app to scrape campaign-finance data from the California Secretary of State’s CAL-ACCESS website|
 [sopr-activity](https://github.com/palewire/sopr-activity)|A quick and dirty script for pulling down lobby disclosure docs filed with the Senate Office of Public Records|
 [sopr-contribs](https://github.com/palewire/sopr-contribs)|Scripts for processing and analyzing federal lobbyist disclosure data reporting contributions to political campaigns|
-[storysniffer](https://github.com/palewire/storysniffer)|Inspect a URL and estimate if it links to news story|
-[storytracker](https://github.com/palewire/storytracker)|Tools for tracking stories on news homepages|
 [the-mondesi-bet](https://github.com/palewire/the-mondesi-bet)|The Mondesi Bet|
-[trump-tweets](https://github.com/palewire/trump-tweets)|All @RealDonaldTrump tweets stored at trumptwitterarchive.com in a single JSON|
-[twitter-mistadobalina](https://github.com/palewire/twitter-mistadobalina)|A script that posts raps by Del Tha Funkee Homosapien to @MISTADOBALINA on Twitter|
-[webcitation](https://github.com/palewire/webcitation)|A simple Python wrapper for the webcitation.org capturing service|
-[wordpress-memento-plugin](https://github.com/palewire/wordpress-memento-plugin)|A plugin for Wordpress web sites to enable the Memento framework for time-based access|
