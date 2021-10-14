@@ -213,7 +213,7 @@ repo | description
 [webcitation](https://github.com/palewire/webcitation)|A simple Python wrapper for the webcitation.org capturing service|
 [wordpress-memento-plugin](https://github.com/palewire/wordpress-memento-plugin)|A plugin for Wordpress web sites to enable the Memento framework for time-based access|
 
-### Other
+### Other stuff
 
 repo | description
 :----------- | :------------
