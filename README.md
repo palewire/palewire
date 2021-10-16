@@ -111,6 +111,7 @@ repo | description
 [archiveis](https://github.com/palewire/archiveis)|A simple Python wrapper for the archive.is capturing service|
 [calfire-wildfires](https://github.com/palewire/calfire-wildfires)|Download wildfires data from CalFire|
 [cpi](https://github.com/palewire/cpi)|Quickly adjust U.S. dollars for inflation using the Consumer Price Index (CPI)|
+[django-anss-archive](https://github.com/palewire/django-anss-archive)|Archive real-time earthquake notifications from the USGS's Advanced National Seismic System
 [django-bakery](https://github.com/palewire/django-bakery)|A set of helpers for baking your Django site out as flat files|
 [django-calaccess-downloads-website](https://github.com/california-civic-data-coalition/django-calaccess-downloads-website)|An open-source archive of campaign finance and lobbying disclosure data from the California Secretary of State’s CAL-ACCESS database|
 [django-calaccess-raw-data](https://github.com/california-civic-data-coalition/django-calaccess-raw-data)|A Django app to download, extract and load campaign finance and lobbying activity data from the California Secretary of State's CAL-ACCESS database|
