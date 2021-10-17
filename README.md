@@ -86,11 +86,35 @@ repo | description
 
 repo | description
 :----------- | :------------
+[california-business-entities](https://github.com/datadesk/california-business-entities)|Corporations and limited-liability companies registered with the California Secretary of State
+[california-house-members](https://github.com/datadesk/california-house-members)|A simple machine-readable list of the 53 men and women California sends to Congress
+[california-topojson-atlas](https://github.com/datadesk/california-topojson-atlas)|Simple maps of California's 58 counties
 [cedar-rapids-buildings-unsafe-after-derecho-2020](https://github.com/palewire/cedar-rapids-buildings-unsafe-after-derecho-2020)|Buildings marked as unsafe to occupy by the Cedar Rapids city government following the 2020 derecho storms
+[la-county-2016-primary-precinct-maps](https://github.com/datadesk/la-county-2016-primary-precinct-maps)|Maps of the consolidated precincts used in Los Angeles County's 2016 primary election
+[la-county-election-precincts-2018](https://github.com/datadesk/la-county-election-precincts-2018)|Final election precincts used by the Los Angeles County Registrar-Recorder/County Clerk in the 2018 elections
+[la-county-election-precincts-2020](https://github.com/datadesk/la-county-election-precincts-2020)|Final election precincts used by the Los Angeles County Registrar-Recorder/County Clerk in the 2020 general elections
+[la-county-trail-maps](https://github.com/datadesk/la-county-trail-maps)|Geospatial data of trails managed or planned by the Los Angeles County Department of Parks and Recreation
+[la-magnets-2016-test-scores](https://github.com/datadesk/la-magnets-2016-test-scores)|A database of test scores for roughly 200 L.A. Unified magnet schools obtained by the Los Angeles Times
+[la-metro-maps])(https://github.com/datadesk/lametro-maps)|Geospatial data from L.A. Metro's public transportation system
+[lausd-school-campus-polygons](https://github.com/datadesk/lausd-school-campus-polygons)|The areas of school campuses at the Los Angeles Unified School District
+[los-angeles-county-tsunami-hazard-areas](https://github.com/datadesk/los-angeles-county-tsunami-hazard-areas)|California Geological Survey maps of flooding tsunamis could produce in Los Angeles County
 [noaa-hurricane-hunters-logo](https://github.com/palewire/noaa-hurricane-hunters-logo)|An official logo of NOAA's Hurricane Hunters released via FOIA
 [nrol-39-logo](https://github.com/palewire/nrol-39-logo)|A vector PDF of the official mission logo of NROL-39 released via FOIA
 [nyc-parks-logo](https://github.com/palewire/nyc-parks-logo)|The official logos of NYC Parks released via FOIL
 [regional-connector-art](https://github.com/palewire/regional-connector-art)|Public art created for light rail stations on the Los Angeles Metro's Regional Connector line
+[san-francisco-campaign-contributions](https://github.com/datadesk/san-francisco-campaign-contributions)|Itemized monetary campaign contributions compiled by San Francisco's Ethics Commission
+[us-ca-butte_county-addresses_parcels_roads-shp](https://github.com/datadesk/us-ca-butte_county-addresses_parcels_roads-shp)|SHP files of addresses, parcels and roads received in a public record request from Butte County, California
+[us-ca-el_dorado_county-currprcl-shp](https://github.com/datadesk/us-ca-el_dorado_county-currprcl-shp)|SHP file of parcels with situs address attached provided via public records request by local government in El Dorado County California
+[us-ca-lake_county-situs_parcels-shp](https://github.com/datadesk/us-ca-lake_county-situs_parcels-shp)|SHP file of parcels with situs address attached provided via public records request by local government in Lake County California
+[us-ca-lassen_county-situs_parcels-shp](https://github.com/datadesk/us-ca-lassen_county-situs_parcels-shp)|SHP file of parcels with situs address attached provided via public records request by local government in Lassen County California
+[us-ca-madera_county-situs-shp](https://github.com/datadesk/us-ca-madera_county-situs-shp)|SHP file of address points provided via public records request by local government in Madera County California
+[us-ca-orange_county-situs_parcels-shp](https://github.com/datadesk/us-ca-orange_county-situs_parcels-shp)|A SHP file of parcel polygons downloaded from Orange County California's public website
+[us-ca-san_joaquin_county-situs_parcels-shp](https://github.com/datadesk/us-ca-san_joaquin_county-situs_parcels-shp)|SHP file of parcels with situs address attached provided via public records request by local government in San Joaquin County California
+[us-ca-santa_clara_county-gis-shp](https://github.com/datadesk/us-ca-santa_clara_county-gis-shp)|SHP files downloaded from Santa Clara County California's password-protected GIS repository
+[us-ca-santa_cruz_county-PointAddress_SC-shp](https://github.com/datadesk/us-ca-santa_cruz_county-PointAddress_SC-shp)|SHP file of address points provided via public records request by local government inSanta Cruz County California
+[us-ca-shasta_county-ShastaCountySitusPoints-shp](https://github.com/datadesk/us-ca-shasta_county-ShastaCountySitusPoints-shp)|SHP file of address points provided via public records request by Shasta County government
+[us-ca-sonoma-county-sc_base_adr_addresses-shp](https://github.com/datadesk/us-ca-sonoma-county-sc_base_adr_addresses-shp)|SHP file of parcels with situs address attached provided via public records request by local government in Sonoma County California
+[us-ca-yuba_county-AddressPoints-shp](https://github.com/datadesk/us-ca-yuba_county-AddressPoints-shp)|SHP file of address points provided via public records request by local government in Yuba County California
 [usa-style-guides](https://github.com/palewire/usa-style-guides)|U.S. government style guides acquired via the Freedom of Information Act
 [usgs-anss-logo](https://github.com/palewire/usgs-anss-logo)|The logo for the U.S. Geological Survey's Advanced National Seismic System
 
@@ -110,6 +134,11 @@ repo | description
 [altair](https://github.com/altair-viz/altair)|Declarative statistical visualization library for Python|
 [archiveis](https://github.com/palewire/archiveis)|A simple Python wrapper for the archive.is capturing service|
 [calfire-wildfires](https://github.com/palewire/calfire-wildfires)|Download wildfires data from CalFire|
+[census-data-aggregator](https://github.com/datadesk/census-data-aggregator)|Combine U.S. census data responsibly
+[census-data-downloader](https://github.com/datadesk/census-data-downloader)|Download U.S. census data and reformat it for humans
+[census-error-analyzer](https://github.com/datadesk/census-error-analyzer)|Analyze the margin of error in U.S. census data
+[census-map-consolidator](https://github.com/datadesk/census-map-consolidator)|Combine Census blocks into new shapes
+[census-map-downloader](https://github.com/datadesk/census-map-downloader)|Easily download U.S. census maps
 [cpi](https://github.com/palewire/cpi)|Quickly adjust U.S. dollars for inflation using the Consumer Price Index (CPI)|
 [django-anss-archive](https://github.com/palewire/django-anss-archive)|Archive real-time earthquake notifications from the USGS's Advanced National Seismic System
 [django-bakery](https://github.com/palewire/django-bakery)|A set of helpers for baking your Django site out as flat files|
@@ -138,10 +167,16 @@ repo | description
 
 repo | description
 :----------- | :------------
+[altair-column-sort-example](https://github.com/datadesk/altair-column-sort-example)|An example of how to sort the columns in a bar chart created by the Altair data visualization library
+[altair-election-maps-example](https://github.com/datadesk/altair-election-maps-example)|An experiment in creating precinct-level election results maps using Python's Altair library
+[altair-interactive-scatterplot-example](https://github.com/datadesk/altair-interactive-scatterplot-example)|An example of how to add a tooltip to a scatterplot in Python's Altair charting library
 [dorling-cartogram-example](https://github.com/palewire/dorling-cartogram-example)|How to calculate a dorling cartogram with Python
+[geopandas-intersection-area-example](https://github.com/datadesk/geopandas-intersection-area-example)|How to use geopandas' overlay method to find the area of intersections between two datasets
+[geopandas-spatial-join-example](https://github.com/datadesk/geopandas-spatial-join-example)|An example of how to join point to polygon data with geopandas and Python
 [git-scraper-example](https://github.com/palewire/git-scraper-example)|A example of a git scraper that download, lints, commits and archives a data set
 [jupyter-notebook-execution-examples](https://github.com/palewire/jupyter-notebook-execution-examples)|Examples of how to remotely execute Jupyter Notebooks from other contexts|
 [pandas-combine-workbooks-example](https://github.com/palewire/pandas-combine-workbooks-example)|How to use Python's pandas library to combine tabs from multiple Microsoft Excel workbooks into a single CSV
+[pandas-squarify-example](https://github.com/datadesk/pandas-squarify-example)|How to use the squarify extension to matplotlib to visualize a pandas DataFrame as a treemap
 [random-tract](https://github.com/palewire/random-tract)|A Python hack to respond to a Twitter challenge to "select a random geographic point in the US, with the probability weighted by population."
 
 ## JavaScript
@@ -193,6 +228,8 @@ repo | description
 
 repo | description
 :----------- | :------------
+[boundaries.latimes.com](https://github.com/datadesk/boundaries.latimes.com)|An API that serves up local GIS data
+[documentstacker](https://github.com/datadesk/latimes-document-stacker)|Use DocumentCloud to publish PDFs for humans
 [first-django-admin](https://github.com/ireapps/first-django-admin)|A step-by-step guide to creating a simple web application that empowers you to enlist reporters in data entry and refinement|
 [first-news-app](https://github.com/ireapps/first-news-app)|A step-by-step guide to publishing a simple news application|
 [first-web-scraper](https://github.com/ireapps/first-web-scraper)|A step-by-step guide to writing a web scraper with Python
@@ -200,11 +237,13 @@ repo | description
 [nicar19-datadesk-family-reunion](https://github.com/palewire/nicar19-datadesk-family-reunion)|Los Angeles Times Data Desk Reunion @ NICAR 2019|
 [orchestral-motion.github.io](https://github.com/orchestral-motion/orchestral-motion.github.io)|L.A. Phil hackday website|
 [pastpages.org](https://github.com/palewire/pastpages.org)|The news homepage archive|
+[tablestacker](https://github.com/datadesk/latimes-table-stacker)|Publish spreadsheets as interactive tables. And do it on deadline.
 
 ### Bots
 
 repo | description
 :----------- | :------------
+[checkbook-la-watchdog](https://github.com/datadesk/checkbook-la-watchdog)|A periodically updated archive of financial data published by the city of Los Angeles' Checkbook LA data portal
 [everytractcount](https://github.com/palewire/everytractcount)|Statistics about every U.S. Census tract mapped by @everytract|
 [mistadobalina](https://github.com/palewire/twitter-mistadobalina)|A script that posts raps by Del Tha Funkee Homosapien to @MISTADOBALINA on Twitter|
 [questionheds](https://github.com/palewire/questionheds)|A feed of headlines with question marks in them|
@@ -214,6 +253,7 @@ repo | description
 
 repo | description
 :----------- | :------------
+[appengine-template](https://github.com/datadesk/latimes-appengine-template)|Bootstrap a Google App Engine project with Django and other goodies
 [django-project-template](https://github.com/palewire/django-project-template)|A custom template for initializing a new Django project the Data Desk way|
 [django-calaccess-project-template](https://github.com/california-civic-data-coalition/django-calaccess-project-template)|A custom template for initializing a new Django project with the California Civic Data Coalition's applications for analyzing the California Secretary of State’s CAL-ACCESS database|
 
@@ -221,6 +261,8 @@ repo | description
 
 repo | description
 :----------- | :------------
+[altair-latimes](https://github.com/datadesk/altair-latimes)|A Los Angeles Times theme for Python's Altair statistical visualization library
+[calculate](https://github.com/datadesk/latimes-calculate)|Some simple math we use to do journalism
 [django-a-matter](https://github.com/palewire/django-a-matter)|An app for authoring background biographical matter on newsworthy people|
 [django-autoarchive](https://github.com/palewire/django-autoarchive)|Django helpers for automatically archiving URLs|
 [django-calaccess-campaign-browser](https://github.com/california-civic-data-coalition/django-calaccess-campaign-browser)|A Django app to refine, review and republish campaign finance data drawn from the California Secretary of State’s CAL-ACCESS database|
@@ -233,8 +275,18 @@ repo | description
 [django-rapture](https://github.com/palewire/django-rapture)|An archive of the Rapture Index at raptureready.com|
 [django-swineflu](https://github.com/palewire/django-swineflu)|A quick and dirty data dump of the H1N1 flu vaccine locations that LA County public health currently buries in a PDF|
 [django-urlarchivefield](https://github.com/palewire/django-urlarchivefield)|A custom Django model field that automatically archives a URL|
+[lametro-api](https://github.com/datadesk/python-lametro-api)|A simple Python wrapper for the L.A. Metro’s API for bus stops, routes and vehicles
+[mappingla](https://github.com/datadesk/latimes-mappingla-api)|A Python wrapper for accessing the Mapping L.A. Boundaries API
 [pastpages2gif](https://github.com/palewire/pastpages2gif)|Create an animated GIF from the PastPages news homepage archive|
+[pluggablemaps](https://github.com/datadesk/latimes-pluggablemaps-usstates)|A pluggable GeoDjango app with the boundaries of all states in the United States of America. Geography, loosely coupled
+[pluggablemaps-hackshackers](https://github.com/palewire/hackshackers-dec2010)|A GeoDjango app that maps unemployment, meant to demonstrate concepts from my talk
+[pluggablemaps-lametrorail](https://github.com/datadesk/latimes-pluggablemaps-lametrorail)|A pluggable GeoDjango app mapping the Los Angeles Metro Rail system
+[pluggablemaps-uscounties](https://github.com/datadesk/latimes-pluggablemaps-uscounties)|A pluggable GeoDjango app with the boundaries of United States counties
+[pyplacefinder](https://github.com/datadesk/pyplacefinder)|A very simple wrapper for Yahoo PlaceFinder
+[python-elections](https://github.com/datadesk/python-elections)|A Python wrapper for the Associated Press' U.S. election data service
+[qiklog](https://github.com/datadesk/latimes-qiklog)|A simplified wrapper for Python's logging module
 [scrapy-calaccess-crawler](https://github.com/california-civic-data-coalition/scrapy-calaccess-crawler)|A Scrapy app to scrape campaign-finance data from the California Secretary of State’s CAL-ACCESS website|
+[statestyle](https://github.com/datadesk/latimes-statestyle)|A Python library that standardizes the names of U.S. states
 [storysniffer](https://github.com/palewire/storysniffer)|Inspect a URL and estimate if it links to news story|
 [storytracker](https://github.com/palewire/storytracker)|Tools for tracking stories on news homepages|
 [webcitation](https://github.com/palewire/webcitation)|A simple Python wrapper for the webcitation.org capturing service|
@@ -250,6 +302,8 @@ repo | description
 [nicar2010](https://github.com/palewire/nicar2010)|Materials from the Django bootcamp at NICAR 2010|
 [nicar2011](https://github.com/palewire/nicar2011)|An example Django app for a class at the NICAR 2011 conference|
 [python-calaccess-notebooks](https://github.com/california-civic-data-coalition/python-calaccess-notebooks)|Python notebooks analyzing campaign finance and lobbying activity data from California Secretary of State’s CAL-ACCESS database|
+[osm-quiet-la](https://github.com/datadesk/osm-la-streets)|A street-centric base layer for overlaying point data about Southern California
+[osm-silent-la](https://github.com/datadesk/osm-silent-la)|A template for a black base layer about Southern California
 [sopr-activity](https://github.com/palewire/sopr-activity)|A quick and dirty script for pulling down lobby disclosure docs filed with the Senate Office of Public Records|
 [sopr-contribs](https://github.com/palewire/sopr-contribs)|Scripts for processing and analyzing federal lobbyist disclosure data reporting contributions to political campaigns|
-[the-mondesi-bet](https://github.com/palewire/the-mondesi-bet)|The Mondesi Bet|
+[the-mondesi-bet](https://github.com/palewire/the-mondesi-bet)|The Mondesi Bet
