@@ -151,7 +151,7 @@ repo | description
 repo | description
 :----------- | :------------
 [10 PRINT CHR$(205.5+RND(1)); : GOTO 10 RUN](https://observablehq.com/@palewire/10-print-chr-205-5-rnd-1-goto-10-run)|A popular one-line script for the Commodore 64
-[2018-year-in-review](https://observablehq.com/@palewire/2018-year-in-review-the-los-angeles-times-master-branch)|The Los Angeles Times' master branch
+[2018-year-in-review](https://observablehq.com/@palewire/2018-year-in-review-the-los-angeles-times-master-branch)|A streamgraph of the Los Angeles Times' master branch
 [analyzing-color](https://observablehq.com/collection/@palewire/color)|Experiments in manipulating color data
 [baseball-visualizations](https://observablehq.com/collection/@palewire/baseball)|Abstracting America's pastime
 [california-fire-zones](https://observablehq.com/collection/@palewire/california-fire-zones)|Maps developed as part of a Los Angeles times geospatial analysis of fire risk zones
