@@ -40,8 +40,8 @@ repo | description
 
 repo | description
 :----------- | :------------
+[lapl-photo-collection-bot](https://github.com/palewire/lapl-photo-collection-bot)|A Twitter bot that posts photographs from the Los Angeles Public Library’s digital collection
 [muckrockbot](https://github.com/palewire/muckrockbot)|A Twitter bot that posts the latest public records requests filed and completed at muckrock.com|
-[lapl-photo-collection-bot](https://github.com/palewire/lapl-photo-collection-bot)|A Twitter bot that posts photographs from the Los Angeles Public Library’s digital collection|
 [sanborn-maps-bot](https://github.com/palewire/sanborn-maps-bot)|A Twitter bot that posts random images from the Library of Congress collection of Sanborn Fire Insurance Company maps
 
 ## Data
@@ -151,17 +151,34 @@ repo | description
 repo | description
 :----------- | :------------
 [10 PRINT CHR$(205.5+RND(1)); : GOTO 10 RUN](https://observablehq.com/@palewire/10-print-chr-205-5-rnd-1-goto-10-run)|A popular one-line script for the Commodore 64
-[2018 year in review](https://observablehq.com/@palewire/2018-year-in-review-the-los-angeles-times-master-branch)|The Los Angeles Times' master branch
+[2018-year-in-review](https://observablehq.com/@palewire/2018-year-in-review-the-los-angeles-times-master-branch)|The Los Angeles Times' master branch
+[analyzing-color](https://observablehq.com/collection/@palewire/color)|Experiments in manipulating color data
+[baseball-visualizations](https://observablehq.com/collection/@palewire/baseball)|Abstracting America's pastime
+[california-fire-zones](https://observablehq.com/collection/@palewire/california-fire-zones)|Maps developed as part of a Los Angeles times geospatial analysis of fire risk zones
 [california-in-mercator](https://observablehq.com/@palewire/california-in-mercator)|A base map of the state
-[d3-curve-inputs](https://observablehq.com/@palewire/d3-curves-inputs)|A list of all the d3 curve options
+[california-poppy-generator](https://observablehq.com/@palewire/california-poppy-generator?collection=@palewire/downloaders)|A randomized generator of California poppies
+[covid-19-prototypes](https://observablehq.com/collection/@palewire/covid-19)|Experiments developed as part of the Los Angeles Times’ coronavirus tracking effort
+[delaunay-headline-hero](https://observablehq.com/@palewire/delaunay-headline-hero)|This modification of Mike Bostock's Delaunay Dual diagram was drafted for consideration as lead art on a gallery of data analysis pieces
+[earthquake-intensity-map](https://observablehq.com/@palewire/earthquake-intensity-map?collection=@palewire/maps)|A "shakemap" of the 7.1 magnitude earthquake that struck Searles Valley, Calif., on July 5, 2019
 [election-2013](https://github.com/palermo-hollywood/election-2013)|Resultados de las Oct. 2013 Buenos Aires elecciones
+[election-results-by-education-treemap](https://observablehq.com/@palewire/iowas-2016-presidential-election-results-by-education-tre)|A treemap of Iowa's 2016 presidential election results by education
+[election-results-challenge](https://observablehq.com/@palewire/election-results-challenge-precincts-reporting)|Got a better idea? Here's you chance to prove it
+[first-observable-notebook](https://observablehq.com/collection/@palewire/first-observable-notebook-2020)|A course taught at the 2020 conference of the National Institute for Computer Assisted Reporting
+[hexbin-headline-hero](https://observablehq.com/@palewire/hexbin-headline-hero)|The first draft of the diagram that serves as the lead art on a gallery of data analysis pieces
 [how-iowa-voted](https://github.com/palewire/how-iowa-voted)|How Iowa Voted
-[Load d3 data incrementally using a sorted value](https://observablehq.com/@palewire/load-d3-data-incrementally-using-a-sorted-value)|Gradually loads all the cities of California from north to south, and then removes them from south to north.
-[Regional maps of California buildings in fire hazard zones](https://observablehq.com/@palewire/regional-maps-of-california-buildings-in-fire-hazard-zones)|The Los Angeles Times conducted an analysis of California buildings within fire hazard zones
-[save-csv](https://observablehq.com/@palewire/saving-csv)|Download a JSON object as comma-separated values
-[save-json](https://observablehq.com/@palewire/saving-json)|Download a JSON object as a plain text file
+[inglewood-inventory](https://observablehq.com/@palewire/the-inglewood-lunch-inventory?collection=@palewire/maps)|Lunches in the "City of Champions" with the Los Angeles Times Data Desk
+[iowa-dorling](https://observablehq.com/@palewire/dorling-cartogram-of-iowa-county-populations?collection=@palewire/maps)|An example of a Dorling cartogram mapping the population of Iowa's 99 counties
+[load-d3-data-incrementally-using-sorted-value](https://observablehq.com/@palewire/load-d3-data-incrementally-using-a-sorted-value)|Gradually loads all the cities of California from north to south, and then removes them from south to north.
+[observable-helpers](https://observablehq.com/collection/@palewire/downloaders)|Utilities to help do things
+[spike-chart](https://observablehq.com/@palewire/spike-chart)|This variation on a standard bar chart substitutes in a proportionally sized spike for the traditional rectangle
 [the-ichiro-bet](https://observablehq.com/@palewire/the-ichiro-bet)|The Ichiro Bet
 [the-many-voices-of-the-other-americans](https://observablehq.com/@datadesk/the-many-voices-of-the-other-americans)|Visualizing the rotating narrators of Laila Lalami's novel "The Other Americans"
+[tinting-a-canvas-image](https://observablehq.com/@palewire/tinting-a-canvas-image)|How to overlay a color filter on top of a canvas image
+[trump-tweets](https://observablehq.com/collection/@palewire/trump-tweets)|Techniques for working President Donald Trump's posts on twitter.com
+[us-census-data](https://observablehq.com/collection/@palewire/u-s-census-data)|A variety of methods for visualizing data from the United States Census Bureau
+[vega-visualizations](https://observablehq.com/collection/@palewire/vega-visualizations)|Examples of using the Vega data visualization toolkit
+[voronoi-husband-and-wife](https://observablehq.com/@palewire/husband-and-wife)|A photograph of my wife and I stippled using a Voronoi diagram
+[web-dubois](https://observablehq.com/collection/@palewire/w-e-b-du-bois)|Digital recreations of data visualizations made for W.E.B. Du Bois’ presentation at the “Paris Exposition Universelle” in 1900
 
 ## Other stuff
 
