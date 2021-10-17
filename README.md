@@ -2,7 +2,7 @@
 
 I work as a journalist, albeit an unconventional one. I specialize in what some people call [data journalism](https://en.wikipedia.org/wiki/Data_journalism) and some others call [computer-assisted reporting](https://en.wikipedia.org/wiki/Computer-assisted_reporting).
 
-This README includes a directory of my open-source computer code on GitHub and other platforms. It does not includes the dozens of apps, stories and graphics I've published as part of my journalism career. For that, visit my blog [palewi.re](https://palewi.re/who-is-ben-welsh/) to find my résumé, a database of [my news clips](https://palewi.re/work/) and an archive of [my public-speaking engagements](https://palewi.re/talks/).
+This README includes a directory of my open-source computer code on GitHub and other platforms. It does not includes the dozens of apps, stories and graphics I've published as part of my journalism career. For that, visit [palewi.re](https://palewi.re/who-is-ben-welsh/) to find my résumé, a database of [my news clips](https://palewi.re/work/) and an archive of [my public-speaking engagements](https://palewi.re/talks/).
 
 ## Table of contents
 
