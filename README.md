@@ -95,7 +95,7 @@ repo | description
 [la-county-election-precincts-2020](https://github.com/datadesk/la-county-election-precincts-2020)|Final election precincts used by the Los Angeles County Registrar-Recorder/County Clerk in the 2020 general elections
 [la-county-trail-maps](https://github.com/datadesk/la-county-trail-maps)|Geospatial data of trails managed or planned by the Los Angeles County Department of Parks and Recreation
 [la-magnets-2016-test-scores](https://github.com/datadesk/la-magnets-2016-test-scores)|A database of test scores for roughly 200 L.A. Unified magnet schools obtained by the Los Angeles Times
-[la-metro-maps])(https://github.com/datadesk/lametro-maps)|Geospatial data from L.A. Metro's public transportation system
+[la-metro-maps](https://github.com/datadesk/lametro-maps)|Geospatial data from L.A. Metro's public transportation system
 [lausd-school-campus-polygons](https://github.com/datadesk/lausd-school-campus-polygons)|The areas of school campuses at the Los Angeles Unified School District
 [los-angeles-county-tsunami-hazard-areas](https://github.com/datadesk/los-angeles-county-tsunami-hazard-areas)|California Geological Survey maps of flooding tsunamis could produce in Los Angeles County
 [noaa-hurricane-hunters-logo](https://github.com/palewire/noaa-hurricane-hunters-logo)|An official logo of NOAA's Hurricane Hunters released via FOIA
