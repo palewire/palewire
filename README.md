@@ -1,4 +1,4 @@
-Hello. My name is Ben Welsh. I’m an Iowan living in Los Angeles.
+## Hello. My name is Ben Welsh. I’m an Iowan living in Los Angeles.
 
 I work as a journalist, albeit an unconventional one. I specialize in what some people call [data journalism](https://en.wikipedia.org/wiki/Data_journalism) and some others call [computer-assisted reporting](https://en.wikipedia.org/wiki/Computer-assisted_reporting).
 
