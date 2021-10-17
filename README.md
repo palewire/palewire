@@ -165,7 +165,7 @@ repo | description
 [election-results-challenge](https://observablehq.com/@palewire/election-results-challenge-precincts-reporting)|Got a better idea? Here's you chance to prove it
 [first-observable-notebook](https://observablehq.com/collection/@palewire/first-observable-notebook-2020)|A course taught at the 2020 conference of the National Institute for Computer Assisted Reporting
 [hexbin-headline-hero](https://observablehq.com/@palewire/hexbin-headline-hero)|The first draft of the diagram that serves as the lead art on a gallery of data analysis pieces
-[how-iowa-voted](https://github.com/palewire/how-iowa-voted)|How Iowa Voted
+[how-iowa-voted](https://github.com/palewire/how-iowa-voted)|Mapping election results from the state of Iowa
 [inglewood-inventory](https://observablehq.com/@palewire/the-inglewood-lunch-inventory?collection=@palewire/maps)|Lunches in the "City of Champions" with the Los Angeles Times Data Desk
 [iowa-dorling](https://observablehq.com/@palewire/dorling-cartogram-of-iowa-county-populations?collection=@palewire/maps)|An example of a Dorling cartogram mapping the population of Iowa's 99 counties
 [load-d3-data-incrementally-using-sorted-value](https://observablehq.com/@palewire/load-d3-data-incrementally-using-a-sorted-value)|Gradually loads all the cities of California from north to south, and then removes them from south to north.
