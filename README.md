@@ -57,6 +57,7 @@ repo | description
 [california-h2a-visas-analysis](https://github.com/datadesk/california-h2a-visas-analysis)|Temporary visas granted to foreign agricultural workers
 [census-hard-to-map-analysis](https://github.com/datadesk/census-hard-to-map-analysis)|A census undercount could cost California billions — and L.A. is famously hard to track
 [chicago-regions-map](https://github.com/palewire/chicago-regions-map)|Creates a regional map of Chicago based on the city's official designations
+[chicago-trees-analysis](https://github.com/palewire/chicago-trees-analysis)|How many trees has Chicago planted? And where?
 [construction-jobs-analysis](https://github.com/datadesk/construction-jobs-analysis)|Demographics and pay of construction workers
 [cubs-opening-day-analysis](https://github.com/palewire/cubs-opening-day-analysis)|Analysis of the Opening Day starters for the Chicago Cubs baseball team
 [deadspin-scraper](https://github.com/datadesk/deadspin-scraper)|Scrape posts from Deadspin
