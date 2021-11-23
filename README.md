@@ -157,14 +157,15 @@ repo | description
 [geomac-wildfires](https://github.com/palewire/geomac-wildfires)|Download wildfires data from GeoMAC|
 [inciweb-wildfires](https://github.com/palewire/inciweb-wildfires)|Download wildfire data from inciweb|
 [install-python-pipenv-pipfile](https://github.com/palewire/install-python-pipenv-pipfile)|Easily install Python, pipenv and Pipfile packages in your GitHub Action|
-[mlbcolors](https://github.com/palewire/mlbcolors)|Easy access to the official colors of every team in Major League Baseball|
-[nasa-wildfires](https://github.com/palewire/nasa-wildfires)|Download wildfire data from NASA satellites|
-[noaa-wildfires](https://github.com/palewire/noaa-wildfires)|Download wildfires data from NOAA satellites|
-[nws-wwa](https://github.com/palewire/nws-wwa)|Download watch, warning and advisory data from the National Weather Service|
+[mlbcolors](https://github.com/palewire/mlbcolors)|Easy access to the official colors of every team in Major League Baseball
+[nasa-wildfires](https://github.com/palewire/nasa-wildfires)|Download wildfire data from NASA satellites
+[noaa-wildfires](https://github.com/palewire/noaa-wildfires)|Download wildfires data from NOAA satellites
+[nws-aurora](https://github.com/palewire/nws-aurora)|Download forecast data for Aurora Borealis and Aurora Australis from the National Weather Service
+[nws-wwa](https://github.com/palewire/nws-wwa)|Download watch, warning and advisory data from the National Weather Service
 [python-censusbatchgeocoder](https://github.com/palewire/python-censusbatchgeocoder)|A simple Python wrapper for U.S. Census Geocoding Services API batch service|
-[python-googlegeocoder](https://github.com/palewire/python-googlegeocoder)|A simple Python wrapper for version three of Google's geocoder API|
-[python-muckrock](https://github.com/palewire/python-muckrock)|A simple python wrapper for the MuckRock API|
-[savepagenow](https://github.com/palewire/savepagenow)|A simple Python wrapper for archive.org's "Save Page Now" capturing service|
+[python-googlegeocoder](https://github.com/palewire/python-googlegeocoder)|A simple Python wrapper for version three of Google's geocoder API
+[python-muckrock](https://github.com/palewire/python-muckrock)|A simple python wrapper for the MuckRock API
+[savepagenow](https://github.com/palewire/savepagenow)|A simple Python wrapper for archive.org's "Save Page Now" capturing service
 
 ### Examples
 
