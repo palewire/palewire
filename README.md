@@ -134,31 +134,32 @@ repo | description
 
 repo | description
 :----------- | :------------
-[altair](https://github.com/altair-viz/altair)|Declarative statistical visualization library for Python|
-[archiveis](https://github.com/palewire/archiveis)|A simple Python wrapper for the archive.is capturing service|
-[calfire-wildfires](https://github.com/palewire/calfire-wildfires)|Download wildfires data from CalFire|
+[air-quality-index](https://github.com/palewire/air-quality-index)|Download air quality index data from AirNow
+[altair](https://github.com/altair-viz/altair)|Declarative statistical visualization library for Python
+[archiveis](https://github.com/palewire/archiveis)|A simple Python wrapper for the archive.is capturing service
+[calfire-wildfires](https://github.com/palewire/calfire-wildfires)|Download wildfires data from CalFire
 [census-data-aggregator](https://github.com/datadesk/census-data-aggregator)|Combine U.S. census data responsibly
 [census-data-downloader](https://github.com/datadesk/census-data-downloader)|Download U.S. census data and reformat it for humans
 [census-error-analyzer](https://github.com/datadesk/census-error-analyzer)|Analyze the margin of error in U.S. census data
 [census-map-consolidator](https://github.com/datadesk/census-map-consolidator)|Combine Census blocks into new shapes
 [census-map-downloader](https://github.com/datadesk/census-map-downloader)|Easily download U.S. census maps
-[cpi](https://github.com/palewire/cpi)|Quickly adjust U.S. dollars for inflation using the Consumer Price Index (CPI)|
+[cpi](https://github.com/palewire/cpi)|Quickly adjust U.S. dollars for inflation using the Consumer Price Index (CPI)
 [django-anss-archive](https://github.com/palewire/django-anss-archive)|Archive real-time earthquake notifications from the USGS's Advanced National Seismic System
-[django-bakery](https://github.com/palewire/django-bakery)|A set of helpers for baking your Django site out as flat files|
-[django-calaccess-downloads-website](https://github.com/california-civic-data-coalition/django-calaccess-downloads-website)|An open-source archive of campaign finance and lobbying disclosure data from the California Secretary of State’s CAL-ACCESS database|
-[django-calaccess-raw-data](https://github.com/california-civic-data-coalition/django-calaccess-raw-data)|A Django app to download, extract and load campaign finance and lobbying activity data from the California Secretary of State's CAL-ACCESS database|
-[django-calaccess-processed-data](https://github.com/california-civic-data-coalition/django-calaccess-processed-data)|A Django app to transform and refine campaign-finance data from the California Secretary of State’s CAL-ACCESS database|
-[django-calaccess-scraped-data](https://github.com/california-civic-data-coalition/django-calaccess-scraped-data)|A Django app to scrape campaign-finance data from the California Secretary of State’s CAL-ACCESS website|
-[django-calaccess-technical-documentation](https://github.com/california-civic-data-coalition/django-calaccess-technical-documentation)|Technical documentation for our pipeline of Django apps that download, extract, load and process the CAL-ACCESS database|
+[django-bakery](https://github.com/palewire/django-bakery)|A set of helpers for baking your Django site out as flat files
+[django-calaccess-downloads-website](https://github.com/california-civic-data-coalition/django-calaccess-downloads-website)|An open-source archive of campaign finance and lobbying disclosure data from the California Secretary of State’s CAL-ACCESS database
+[django-calaccess-raw-data](https://github.com/california-civic-data-coalition/django-calaccess-raw-data)|A Django app to download, extract and load campaign finance and lobbying activity data from the California Secretary of State's CAL-ACCESS database
+[django-calaccess-processed-data](https://github.com/california-civic-data-coalition/django-calaccess-processed-data)|A Django app to transform and refine campaign-finance data from the California Secretary of State’s CAL-ACCESS database
+[django-calaccess-scraped-data](https://github.com/california-civic-data-coalition/django-calaccess-scraped-data)|A Django app to scrape campaign-finance data from the California Secretary of State’s CAL-ACCESS website
+[django-calaccess-technical-documentation](https://github.com/california-civic-data-coalition/django-calaccess-technical-documentation)|Technical documentation for our pipeline of Django apps that download, extract, load and process the CAL-ACCESS database
 [django-greeking](https://github.com/palewire/django-greeking)|Django template tools for printing filler, a technique from the days of hot type known as greeking|
-[django-internetarchive-storage](https://github.com/california-civic-data-coalition/django-internetarchive-storage)|A custom Django storage system for Internet Archive collections|
-[django-postgres-copy](https://github.com/california-civic-data-coalition/django-postgres-copy)|Quickly import and export delimited data with Django support for PostgreSQL's COPY command|
-[django-yamlfield](https://github.com/palewire/django-yamlfield)|A Django database field for storing YAML data|
-[geomac-wildfires](https://github.com/palewire/geomac-wildfires)|Download wildfires data from GeoMAC|
-[inciweb-wildfires](https://github.com/palewire/inciweb-wildfires)|Download wildfire data from inciweb|
-[install-python-pipenv-pipfile](https://github.com/palewire/install-python-pipenv-pipfile)|Easily install Python, pipenv and Pipfile packages in your GitHub Action|
+[django-internetarchive-storage](https://github.com/california-civic-data-coalition/django-internetarchive-storage)|A custom Django storage system for Internet Archive collections
+[django-postgres-copy](https://github.com/california-civic-data-coalition/django-postgres-copy)|Quickly import and export delimited data with Django support for PostgreSQL's COPY command
+[django-yamlfield](https://github.com/palewire/django-yamlfield)|A Django database field for storing YAML data
+[inciweb-wildfires](https://github.com/palewire/inciweb-wildfires)|Download wildfire data from inciweb
+[install-python-pipenv-pipfile](https://github.com/palewire/install-python-pipenv-pipfile)|Easily install Python, pipenv and Pipfile packages in your GitHub Action
 [mlbcolors](https://github.com/palewire/mlbcolors)|Easy access to the official colors of every team in Major League Baseball
 [nasa-wildfires](https://github.com/palewire/nasa-wildfires)|Download wildfire data from NASA satellites
+[nifc-wildfires](https://github.com/palewire/nifc-wildfires)|Download wildfires data from NIFC
 [noaa-wildfires](https://github.com/palewire/noaa-wildfires)|Download wildfires data from NOAA satellites
 [nws-aurora](https://github.com/palewire/nws-aurora)|Download forecast data for Aurora Borealis and Aurora Australis from the National Weather Service
 [nws-wwa](https://github.com/palewire/nws-wwa)|Download watch, warning and advisory data from the National Weather Service
@@ -208,6 +209,7 @@ repo | description
 [inglewood-inventory](https://observablehq.com/@palewire/the-inglewood-lunch-inventory?collection=@palewire/maps)|Lunches in the "City of Champions" with the Los Angeles Times Data Desk
 [iowa-dorling](https://observablehq.com/@palewire/dorling-cartogram-of-iowa-county-populations?collection=@palewire/maps)|An example of a Dorling cartogram mapping the population of Iowa's 99 counties
 [load-d3-data-incrementally-using-sorted-value](https://observablehq.com/@palewire/load-d3-data-incrementally-using-a-sorted-value)|Gradually loads all the cities of California from north to south, and then removes them from south to north.
+[numbers-in-the-newsroom](https://observablehq.com/collection/@palewire/numbers-in-the-newsroom)|Calculators for common newsroom needs, including those featured in Sarah Cohen’s book “Numbers in the Newsroom: Using Math and Statistics in News”
 [observable-helpers](https://observablehq.com/collection/@palewire/downloaders)|Utilities to help do things
 [spike-chart](https://observablehq.com/@palewire/spike-chart)|This variation on a standard bar chart substitutes in a proportionally sized spike for the traditional rectangle
 [the-ichiro-bet](https://observablehq.com/@palewire/the-ichiro-bet)|The Ichiro Bet
