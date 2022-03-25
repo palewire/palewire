@@ -42,6 +42,7 @@ repo | description
 repo | description
 :----------- | :------------
 [lapl-photo-collection-bot](https://github.com/palewire/lapl-photo-collection-bot)|A Twitter bot that posts photographs from the Los Angeles Public Library’s digital collection
+[news-homepages](https://github.com/palewire/news-homepages)|A bot that gathers, archives and shares screenshots of news homepages|
 [muckrockbot](https://github.com/palewire/muckrockbot)|A Twitter bot that posts the latest public records requests filed and completed at muckrock.com|
 [sanborn-maps-bot](https://github.com/palewire/sanborn-maps-bot)|A Twitter bot that posts random images from the Library of Congress collection of Sanborn Fire Insurance Company maps
 
