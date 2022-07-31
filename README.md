@@ -170,6 +170,7 @@ repo | description
 [python-googlegeocoder](https://github.com/palewire/python-googlegeocoder)|A simple Python wrapper for version three of Google's geocoder API
 [python-muckrock](https://github.com/palewire/python-muckrock)|A simple python wrapper for the MuckRock API
 [savepagenow](https://github.com/palewire/savepagenow)|A simple Python wrapper for archive.org's "Save Page Now" capturing service
+[storysniffer](https://github.com/palewire/storysniffer)|Inspect a URL and estimate if it links to news story
 
 ### Examples
 
@@ -296,7 +297,6 @@ repo | description
 [qiklog](https://github.com/datadesk/latimes-qiklog)|A simplified wrapper for Python's logging module
 [scrapy-calaccess-crawler](https://github.com/california-civic-data-coalition/scrapy-calaccess-crawler)|A Scrapy app to scrape campaign-finance data from the California Secretary of State’s CAL-ACCESS website|
 [statestyle](https://github.com/datadesk/latimes-statestyle)|A Python library that standardizes the names of U.S. states
-[storysniffer](https://github.com/palewire/storysniffer)|Inspect a URL and estimate if it links to news story|
 [storytracker](https://github.com/palewire/storytracker)|Tools for tracking stories on news homepages|
 [webcitation](https://github.com/palewire/webcitation)|A simple Python wrapper for the webcitation.org capturing service|
 [wordpress-memento-plugin](https://github.com/palewire/wordpress-memento-plugin)|A plugin for Wordpress web sites to enable the Memento framework for time-based access|
