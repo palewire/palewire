@@ -33,6 +33,7 @@ repo | description
 [first-github-scraper](https://github.com/palewire/first-github-scraper)|An introduction to free, automated web scraping with GitHub Actions|
 [first-python-notebook](https://github.com/palewire/first-python-notebook)|A step-by-step guide to analyzing data with Python and the Jupyter Notebook|
 [first-visual-story](https://github.com/palewire/first-graphics-app)|A step-by-step guide to publishing a standalone story from a dataset|
+[news-homepages](https://github.com/palewire/news-homepages)|An open-source archive that gathers, archives and shares news homepages|
 [palewi.re](https://github.com/palewire/palewi.re)|My blog|
 [savemy.news](https://github.com/palewire/savemy.news)|A personal, permanent clipping service|
 [studs-terkel-podcast](https://github.com/palewire/studs-terkel-podcast)|Selections from WFMT's Studs Terkel Radio Archive delivered to your podcatcher|
@@ -45,7 +46,6 @@ repo | description
 [metar-weather-bot](https://github.com/palewire/metar-weather-bot)|A Twitter bot that posts the latest METAR weather report for LAX airport
 [muckrockbot](https://github.com/palewire/muckrockbot)|A Twitter bot that posts the latest public records requests filed and completed at muckrock.com|
 [mlb-postseason-bot](https://github.com/palewire/mlb-postseason-bot)|Twitter bot that posts daily updates on a team’s chance to make the Major League Baseball postseason
-[news-homepages](https://github.com/palewire/news-homepages)|A bot that gathers, archives and shares screenshots of news homepages|
 [sanborn-maps-bot](https://github.com/palewire/sanborn-maps-bot)|A Twitter bot that posts random images from the Library of Congress collection of Sanborn Fire Insurance Company maps
 
 ## Data
