@@ -60,6 +60,7 @@ repo | description
 [california-fire-zone-analysis](https://github.com/datadesk/california-fire-zone-analysis)|California buildings within fire hazard zones
 [california-h2a-visas-analysis](https://github.com/datadesk/california-h2a-visas-analysis)|Temporary visas granted to foreign agricultural workers
 [census-hard-to-map-analysis](https://github.com/datadesk/census-hard-to-map-analysis)|A census undercount could cost California billions — and L.A. is famously hard to track
+[cfb-gap-analysis](https://github.com/palewire/cfb-gap-analysis)|College football's most imbalanced teams
 [chicago-regions-map](https://github.com/palewire/chicago-regions-map)|Creates a regional map of Chicago based on the city's official designations
 [chicago-trees-analysis](https://github.com/palewire/chicago-trees-analysis)|How many trees has Chicago planted? And where?
 [construction-jobs-analysis](https://github.com/datadesk/construction-jobs-analysis)|Demographics and pay of construction workers
@@ -67,11 +68,13 @@ repo | description
 [deadspin-scraper](https://github.com/datadesk/deadspin-scraper)|Scrape posts from Deadspin
 [deleon-district-election-results-analysis](https://github.com/datadesk/deleon-district-election-results-analysis)|How former state Sen. Kevin de León fared in his own district
 [drudge-domain-analysis](https://github.com/palewire/drudge-domain-analysis)|A simple example of using storytracker and the PastPages API to conduct a link analysis
+[faa-drone-license-analysis](https://github.com/palewire/faa-drone-license-analysis)|Who can fly commercially?
 [ferc-enforcement-analysis](https://github.com/datadesk/ferc-enforcement-analysis)|Civil penalties issued by FERC
 [helicopter-accident-analysis](https://github.com/datadesk/helicopter-accident-analysis)|A Los Angeles Times analysis of helicopter accident rates
 [hollister-ranch-analysis](https://github.com/datadesk/hollister-ranch-analysis)|Agricultural property tax breaks in Hollister Ranch
 [houston-flood-zone-analysis](https://github.com/datadesk/houston-flood-zone-analysis)|Geospatial analysis of Houston homes after Hurricane Harvey
 [hsr-document-analysis](https://github.com/datadesk/hsr-document-analysis)|How California’s faltering high-speed rail project was ‘captured’ by costly consultants
+[judge-home-run-analysis](https://github.com/palewire/judge-home-run-analysis)|How the Yankee slugger's 2022 pace compares to the past
 [la-settlements-analysis](https://github.com/datadesk/la-settlements-analysis)|Legal  payouts by L.A. city
 [la-vacant-building-complaints-analysis](https://github.com/datadesk/la-vacant-building-complaints-analysis)|Vacant building complaints filed with L.A. city
 [la-weedmaps-analysis](https://github.com/datadesk/la-weedmaps-analysis)|Black market cannabis shops thrive in L.A. even as city cracks down
@@ -80,6 +83,7 @@ repo | description
 [promenade-west-sales-report](https://github.com/palewire/promenade-west-sales-report)|An analysis of downtown Los Angeles housing prices
 [street-racing-analysis](https://github.com/datadesk/street-racing-analysis)|Street racing fatalities in L.A. County
 [swana-census-analysis](https://github.com/datadesk/swana-census-analysis)|Are Arabs and Iranians white? Census says yes, but many disagree
+[washingtonpost-newswhip-analysis](https://github.com/palewire/washingtonpost-newswhip-analysis)|How many pieces does the Washington Post publish?
 
 ### Git scrapers
 
