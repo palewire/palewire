@@ -30,6 +30,7 @@ repo | description
 :----------- | :------------
 [californiacivicdata.org](https://github.com/california-civic-data-coalition/californiacivicdata.org)|The online home of the California Civic Data Coalition|
 [cummings.ee](https://github.com/palewire/cummings.ee)|A collection of the work of Edward Estlin Cummings, as it enters the public domain|
+[first-django-admin](https://github.com/palewire/first-django-admin)|A step-by-step guide to creating a simple web application that empowers you to enlist reporters in data entry and refinement|
 [first-github-scraper](https://github.com/palewire/first-github-scraper)|An introduction to free, automated web scraping with GitHub Actions|
 [first-python-notebook](https://github.com/palewire/first-python-notebook)|A step-by-step guide to analyzing data with Python and the Jupyter Notebook|
 [first-visual-story](https://github.com/palewire/first-graphics-app)|A step-by-step guide to publishing a standalone story from a dataset|
