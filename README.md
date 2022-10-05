@@ -246,7 +246,6 @@ repo | description
 :----------- | :------------
 [boundaries.latimes.com](https://github.com/datadesk/boundaries.latimes.com)|An API that serves up local GIS data
 [documentstacker](https://github.com/datadesk/latimes-document-stacker)|Use DocumentCloud to publish PDFs for humans
-[first-django-admin](https://github.com/ireapps/first-django-admin)|A step-by-step guide to creating a simple web application that empowers you to enlist reporters in data entry and refinement|
 [first-news-app](https://github.com/ireapps/first-news-app)|A step-by-step guide to publishing a simple news application|
 [first-web-scraper](https://github.com/ireapps/first-web-scraper)|A step-by-step guide to writing a web scraper with Python
 [nicar18-datadesk-family-reunion](https://github.com/palewire/nicar18-datadesk-family-reunion)|Los Angeles Times Data Desk Reunion @ NICAR 2018|
