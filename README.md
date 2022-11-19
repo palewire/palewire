@@ -321,3 +321,5 @@ repo | description
 [sopr-activity](https://github.com/palewire/sopr-activity)|A quick and dirty script for pulling down lobby disclosure docs filed with the Senate Office of Public Records|
 [sopr-contribs](https://github.com/palewire/sopr-contribs)|Scripts for processing and analyzing federal lobbyist disclosure data reporting contributions to political campaigns|
 [the-mondesi-bet](https://github.com/palewire/the-mondesi-bet)|The Mondesi Bet
+
+This link is to verify my identity for <a rel="me" href="https://mastodon.social/@palewire">Mastodon</a>
