@@ -129,6 +129,7 @@ repo | description
 [us-ca-yuba_county-AddressPoints-shp](https://github.com/datadesk/us-ca-yuba_county-AddressPoints-shp)|SHP file of address points provided via public records request by local government in Yuba County California
 [usa-style-guides](https://github.com/palewire/usa-style-guides)|U.S. government style guides acquired via the Freedom of Information Act
 [usgs-anss-logo](https://github.com/palewire/usgs-anss-logo)|The logo for the U.S. Geological Survey's Advanced National Seismic System
+[usgs-hawaii-volcano-drone-survey-october-2022](https://github.com/palewire/usgs-hawaii-volcano-drone-survey-october-2022)|Photography and a digital elevation model from an October 2022 USGS drone mission over the Kilauea volcano's Halema‘uma‘u pit crater.
 
 ## Python
 
