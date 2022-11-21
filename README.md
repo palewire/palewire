@@ -28,6 +28,7 @@ This README includes a directory of my open-source computer code on GitHub and o
 
 repo | description
 :----------- | :------------
+[amsat-satellite-index](https://gitlab.amsat.org/open-source/amsat-satellite-index)|A searchable, sortable table listing all the ham satellites in space
 [californiacivicdata.org](https://github.com/california-civic-data-coalition/californiacivicdata.org)|The online home of the California Civic Data Coalition|
 [cummings.ee](https://github.com/palewire/cummings.ee)|A collection of the work of Edward Estlin Cummings, as it enters the public domain|
 [first-django-admin](https://github.com/palewire/first-django-admin)|A step-by-step guide to creating a simple web application that empowers you to enlist reporters in data entry and refinement|
