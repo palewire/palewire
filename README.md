@@ -237,6 +237,8 @@ repo | description
 :----------- | :------------
 [dotfiles](https://github.com/palewire/dotfiles)|My configuration files
 [ebook-exports](https://github.com/palewire/ebook-exports)|Export the e.e. cummings free poetry archive to a variety of ebook formats
+[is-5](https://github.com/palewire/is-5)|Page scans of E.E. Cummings’ 1926 book of verse
+[tulips-and-chimneys](https://github.com/palewire/tulips-and-chimneys)|Page scans of E.E. Cummings’ first published book of verse
 
 ## Inactive projects
 
