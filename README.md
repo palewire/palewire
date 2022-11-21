@@ -314,6 +314,7 @@ repo | description
 repo | description
 :----------- | :------------
 [california-k12-notebooks](https://github.com/datadesk/california-k12-notebooks)|Scripts to download and process California K12 schools data
+[chirp-ham-radio-channels](https://github.com/palewire/chirp-ham-radio-channels)|Channels formatted for the CHIRP amateur radio programming system
 [first-python-notebook-binder](https://github.com/california-civic-data-coalition/first-python-notebook-binder)|A template for deploying "First Python Notebook" with Binder|
 [ire2010](https://github.com/palewire/ire2010)|Class materials for the Django bootcamp at the IRE 2010 conference in Las Vegas|
 [nicar2010](https://github.com/palewire/nicar2010)|Materials from the Django bootcamp at NICAR 2010|
