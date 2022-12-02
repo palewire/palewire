@@ -44,7 +44,7 @@ repo | description
 
 repo | description
 :----------- | :------------
-[lapl-photo-collection-bot](https://github.com/palewire/lapl-photo-collection-bot)|A Twitter bot that posts photographs from the Los Angeles Public Library’s digital collection
+[old-la-photos](https://github.com/palewire/old-la-photos)|A Twitter bot that posts photographs from the Los Angeles Public Library’s digital collection
 [metar-weather-bot](https://github.com/palewire/metar-weather-bot)|A Twitter bot that posts the latest METAR weather report for LAX airport
 [muckrockbot](https://github.com/palewire/muckrockbot)|A Twitter bot that posts the latest public records requests filed and completed at muckrock.com|
 [mlb-postseason-bot](https://github.com/palewire/mlb-postseason-bot)|Twitter bot that posts daily updates on a team’s chance to make the Major League Baseball postseason
@@ -240,6 +240,7 @@ repo | description
 :----------- | :------------
 [dotfiles](https://github.com/palewire/dotfiles)|My configuration files
 [ebook-exports](https://github.com/palewire/ebook-exports)|Export the e.e. cummings free poetry archive to a variety of ebook formats
+[internet-archive-upload](https://github.com/marketplace/actions/upload-files-to-an-archive-org-item)|Upload files to an archive.org item
 [is-5](https://github.com/palewire/is-5)|Page scans of E.E. Cummings’ 1926 book of verse
 [tulips-and-chimneys](https://github.com/palewire/tulips-and-chimneys)|Page scans of E.E. Cummings’ first published book of verse
 
