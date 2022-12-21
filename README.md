@@ -8,6 +8,7 @@ This README includes a directory of my open-source computer code on GitHub and o
 
 + [Products](#products)
   - [Websites](#websites)
+  - [Lesson plans](#lesson-plans)
   - [Bots](#bots)
 + [Data](#data)
   - [Computational notebooks](#computational-notebooks)
@@ -31,14 +32,20 @@ repo | description
 [amsat-satellite-index](https://gitlab.amsat.org/open-source/amsat-satellite-index)|A searchable, sortable table listing all the ham satellites in space
 [californiacivicdata.org](https://github.com/california-civic-data-coalition/californiacivicdata.org)|The online home of the California Civic Data Coalition|
 [cummings.ee](https://github.com/palewire/cummings.ee)|A collection of the work of Edward Estlin Cummings, as it enters the public domain|
-[first-django-admin](https://github.com/palewire/first-django-admin)|A step-by-step guide to creating a simple web application that empowers you to enlist reporters in data entry and refinement|
-[first-github-scraper](https://github.com/palewire/first-github-scraper)|An introduction to free, automated web scraping with GitHub Actions|
-[first-python-notebook](https://github.com/palewire/first-python-notebook)|A step-by-step guide to analyzing data with Python and the Jupyter Notebook|
-[first-visual-story](https://github.com/palewire/first-graphics-app)|A step-by-step guide to publishing a standalone story from a dataset|
 [news-homepages](https://github.com/palewire/news-homepages)|An open-source archive that gathers, archives and shares news homepages|
 [palewi.re](https://github.com/palewire/palewi.re)|My blog|
 [savemy.news](https://github.com/palewire/savemy.news)|A personal, permanent clipping service|
 [studs-terkel-podcast](https://github.com/palewire/studs-terkel-podcast)|Selections from WFMT's Studs Terkel Radio Archive delivered to your podcatcher|
+
+### Lesson plans
+
+repo | description
+:----------- | :------------
+[first-django-admin](https://github.com/palewire/first-django-admin)|A step-by-step guide to creating a simple web application that empowers you to enlist reporters in data entry and refinement
+[first-github-scraper](https://github.com/palewire/first-github-scraper)|An introduction to free, automated web scraping with GitHub Actions
+[first-pull-request](https://github.com/palewire/first-pull-request)|How to propose changes to open-source software using GitHub pull requests
+[first-python-notebook](https://github.com/palewire/first-python-notebook)|A step-by-step guide to analyzing data with Python and the Jupyter Notebook
+[first-visual-story](https://github.com/palewire/first-graphics-app)|A step-by-step guide to publishing a standalone story from a dataset
 
 ### Bots
 
@@ -47,7 +54,6 @@ repo | description
 [old-la-photos](https://github.com/palewire/old-la-photos)|A Twitter bot that posts photographs from the Los Angeles Public Library’s digital collection
 [metar-weather-bot](https://github.com/palewire/metar-weather-bot)|A Twitter bot that posts the latest METAR weather report for LAX airport
 [muckrockbot](https://github.com/palewire/muckrockbot)|A Twitter bot that posts the latest public records requests filed and completed at muckrock.com|
-[mlb-postseason-bot](https://github.com/palewire/mlb-postseason-bot)|Twitter bot that posts daily updates on a team’s chance to make the Major League Baseball postseason
 [sanborn-maps-bot](https://github.com/palewire/sanborn-maps-bot)|A Twitter bot that posts random images from the Library of Congress collection of Sanborn Fire Insurance Company maps
 
 ## Data
@@ -139,8 +145,8 @@ repo | description
 
 repo | description
 :----------- | :------------
-[django-heroku-template](https://github.com/palewire/django-heroku-template)|A template for Django projects hosted by Heroku|
-[python-open-source-template](https://github.com/palewire/python-open-source-template)|A template for open-source Python software repositories|
+[django-heroku-template](https://github.com/palewire/django-heroku-template)|A template for Django projects hosted by Heroku
+[python-open-source-template](https://github.com/palewire/python-open-source-template)|A template for open-source Python software repositories
 
 ### Packages
 
@@ -252,23 +258,30 @@ repo | description
 :----------- | :------------
 [boundaries.latimes.com](https://github.com/datadesk/boundaries.latimes.com)|An API that serves up local GIS data
 [documentstacker](https://github.com/datadesk/latimes-document-stacker)|Use DocumentCloud to publish PDFs for humans
-[first-news-app](https://github.com/ireapps/first-news-app)|A step-by-step guide to publishing a simple news application|
-[first-web-scraper](https://github.com/ireapps/first-web-scraper)|A step-by-step guide to writing a web scraper with Python
-[nicar18-datadesk-family-reunion](https://github.com/palewire/nicar18-datadesk-family-reunion)|Los Angeles Times Data Desk Reunion @ NICAR 2018|
-[nicar19-datadesk-family-reunion](https://github.com/palewire/nicar19-datadesk-family-reunion)|Los Angeles Times Data Desk Reunion @ NICAR 2019|
-[orchestral-motion.github.io](https://github.com/orchestral-motion/orchestral-motion.github.io)|L.A. Phil hackday website|
-[pastpages.org](https://github.com/palewire/pastpages.org)|The news homepage archive|
+[nicar18-datadesk-family-reunion](https://github.com/palewire/nicar18-datadesk-family-reunion)|Los Angeles Times Data Desk Reunion @ NICAR 2018
+[nicar19-datadesk-family-reunion](https://github.com/palewire/nicar19-datadesk-family-reunion)|Los Angeles Times Data Desk Reunion @ NICAR 2019
+[orchestral-motion.github.io](https://github.com/orchestral-motion/orchestral-motion.github.io)|L.A. Phil hackday website
+[pastpages.org](https://github.com/palewire/pastpages.org)|The news homepage archive
 [tablestacker](https://github.com/datadesk/latimes-table-stacker)|Publish spreadsheets as interactive tables. And do it on deadline.
+
+### Lesson plans
+
+
+repo | description
+:----------- | :------------
+[first-news-app](https://github.com/ireapps/first-news-app)|A step-by-step guide to publishing a simple news application
+[first-web-scraper](https://github.com/ireapps/first-web-scraper)|A step-by-step guide to writing a web scraper with Python
 
 ### Bots
 
 repo | description
 :----------- | :------------
 [checkbook-la-watchdog](https://github.com/datadesk/checkbook-la-watchdog)|A periodically updated archive of financial data published by the city of Los Angeles' Checkbook LA data portal
-[everytractcount](https://github.com/palewire/everytractcount)|Statistics about every U.S. Census tract mapped by @everytract|
-[mistadobalina](https://github.com/palewire/twitter-mistadobalina)|A script that posts raps by Del Tha Funkee Homosapien to @MISTADOBALINA on Twitter|
-[questionheds](https://github.com/palewire/questionheds)|A feed of headlines with question marks in them|
-[trump-tweets](https://github.com/palewire/trump-tweets)|All @RealDonaldTrump tweets stored at trumptwitterarchive.com in a single JSON|
+[everytractcount](https://github.com/palewire/everytractcount)|Statistics about every U.S. Census tract mapped by @everytract
+[mistadobalina](https://github.com/palewire/twitter-mistadobalina)|A script that posts raps by Del Tha Funkee Homosapien to @MISTADOBALINA on Twitter
+[mlb-postseason-bot](https://github.com/palewire/mlb-postseason-bot)|Twitter bot that posts daily updates on a team’s chance to make the Major League Baseball postseason
+[questionheds](https://github.com/palewire/questionheds)|A feed of headlines with question marks in them
+[trump-tweets](https://github.com/palewire/trump-tweets)|All @RealDonaldTrump tweets stored at trumptwitterarchive.com in a single JSON
 
 ### Templates
 
