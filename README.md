@@ -54,6 +54,7 @@ repo | description
 [old-la-photos](https://github.com/palewire/old-la-photos)|A Twitter bot that posts photographs from the Los Angeles Public Library’s digital collection
 [metar-weather-bot](https://github.com/palewire/metar-weather-bot)|A Twitter bot that posts the latest METAR weather report for LAX airport
 [muckrockbot](https://github.com/palewire/muckrockbot)|A Twitter bot that posts the latest public records requests filed and completed at muckrock.com|
+[reuters-jobs](https://github.com/palewire/reuters-jobs)|A Twitter bot that posts the latest open jobs at Reuters
 [sanborn-maps-bot](https://github.com/palewire/sanborn-maps-bot)|A Twitter bot that posts random images from the Library of Congress collection of Sanborn Fire Insurance Company maps
 
 ## Data
