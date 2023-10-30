@@ -187,7 +187,8 @@ repo | description
 [nws-wwa](https://github.com/palewire/nws-wwa)|Download watch, warning and advisory data from the National Weather Service
 [python-censusbatchgeocoder](https://github.com/palewire/python-censusbatchgeocoder)|A simple Python wrapper for U.S. Census Geocoding Services API batch service|
 [python-googlegeocoder](https://github.com/palewire/python-googlegeocoder)|A simple Python wrapper for version three of Google's geocoder API
-[python-muckrock](https://github.com/palewire/python-muckrock)|A simple python wrapper for the MuckRock API
+[python-muckrock](https://github.com/palewire/python-muckrock)|A simple Python wrapper for the MuckRock API
+[reuters-style](https://github.com/palewire/reuters-style)|A Python library format dates, numbers and text to conform with the Reuters Style Guide, the standards that guide the world's largest independent newsroom 
 [savepagenow](https://github.com/palewire/savepagenow)|A simple Python wrapper for archive.org's "Save Page Now" capturing service
 [storysniffer](https://github.com/palewire/storysniffer)|Inspect a URL and estimate if it links to news story
 
