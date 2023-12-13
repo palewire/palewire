@@ -159,6 +159,7 @@ repo | description
 :----------- | :------------
 [air-quality-index](https://github.com/palewire/air-quality-index)|Download air quality index data from AirNow
 [altair](https://github.com/altair-viz/altair)|Declarative statistical visualization library for Python
+[atcf-data-parser](https://github.com/palewire/atcf-data-parser)|Parser for the a-deck data posted online by the Automated Tropical Cyclone Forecasting System
 [archiveis](https://github.com/palewire/archiveis)|A simple Python wrapper for the archive.is capturing service
 [calfire-wildfires](https://github.com/palewire/calfire-wildfires)|Download wildfires data from CalFire
 [census-data-aggregator](https://github.com/datadesk/census-data-aggregator)|Combine U.S. census data responsibly
