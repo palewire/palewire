@@ -180,6 +180,7 @@ repo | description
 [django-yamlfield](https://github.com/palewire/django-yamlfield)|A Django database field for storing YAML data
 [inciweb-wildfires](https://github.com/palewire/inciweb-wildfires)|Download wildfire data from inciweb
 [install-python-pipenv-pipfile](https://github.com/palewire/install-python-pipenv-pipfile)|Easily install Python, pipenv and Pipfile packages in your GitHub Action
+[ipsos-credibility-interval](https://github.com/palewire/ipsos-credibility-interval)|Calculate Bayesian credibility intervals for online polling using the Ipsos method
 [mlbcolors](https://github.com/palewire/mlbcolors)|Easy access to the official colors of every team in Major League Baseball
 [nasa-wildfires](https://github.com/palewire/nasa-wildfires)|Download wildfire data from NASA satellites
 [nifc-wildfires](https://github.com/palewire/nifc-wildfires)|Download wildfires data from NIFC
