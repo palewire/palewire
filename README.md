@@ -53,7 +53,8 @@ repo | description
 :----------- | :------------
 [old-la-photos](https://github.com/palewire/old-la-photos)|A bot that posts photographs from the Los Angeles Public Library’s digital collection
 [metar-weather-bot](https://github.com/palewire/metar-weather-bot)|A bot that posts the latest METAR weather report for LAX airport
-[muckrockbot](https://github.com/palewire/muckrockbot)|A bot that posts the latest public records requests filed and completed at muckrock.com|
+[muckrockbot](https://github.com/palewire/muckrockbot)|A bot that posts the latest public records requests filed and completed at muckrock.com
+[nyc-open-data-monitor](https://github.com/palewire/nyc-open-data-monitor)|Automated monitoring of new and updated datasets posted to New York City's data portal
 [reuters-jobs](https://github.com/palewire/reuters-jobs)|A bot that posts the latest open jobs at Reuters
 [random-pigeon-gpt](https://github.com/palewire/random-pigeon-gpt)| A bot that posts AI-generated images of New York City pigeons generated using random adjectives
 [sanborn-maps-bot](https://github.com/palewire/sanborn-maps-bot)|A bot that posts random images from the Library of Congress collection of Sanborn Fire Insurance Company maps
