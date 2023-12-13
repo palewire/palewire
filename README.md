@@ -192,6 +192,7 @@ repo | description
 [python-muckrock](https://github.com/palewire/python-muckrock)|A simple Python wrapper for the MuckRock API
 [reuters-style](https://github.com/palewire/reuters-style)|A Python library format dates, numbers and text to conform with the Reuters Style Guide, the standards that guide the world's largest independent newsroom 
 [savepagenow](https://github.com/palewire/savepagenow)|A simple Python wrapper for archive.org's "Save Page Now" capturing service
+[sphinx-palewire-theme](https://github.com/palewire/sphinx-palewire-theme)|A Sphinx theme for sites hosted at palewi.re
 [storysniffer](https://github.com/palewire/storysniffer)|Inspect a URL and estimate if it links to news story
 
 ### Examples
