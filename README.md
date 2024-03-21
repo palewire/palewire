@@ -128,6 +128,7 @@ repo | description
 [nyc-parks-logo](https://github.com/palewire/nyc-parks-logo)|The official logos of NYC Parks released via FOIL
 [regional-connector-art](https://github.com/palewire/regional-connector-art)|Public art created for light rail stations on the Los Angeles Metro's Regional Connector line
 [san-francisco-campaign-contributions](https://github.com/datadesk/san-francisco-campaign-contributions)|Itemized monetary campaign contributions compiled by San Francisco's Ethics Commission
+[space-force-emblems](https://github.com/palewire/space-force-emblems)|The official logos of 83 US Space Force units
 [union-station-site-map](https://github.com/palewire/union-station-site-map)|The glossy map on display in the Los Angeles transit hub
 [us-ca-butte_county-addresses_parcels_roads-shp](https://github.com/datadesk/us-ca-butte_county-addresses_parcels_roads-shp)|SHP files of addresses, parcels and roads received in a public record request from Butte County, California
 [us-ca-el_dorado_county-currprcl-shp](https://github.com/datadesk/us-ca-el_dorado_county-currprcl-shp)|SHP file of parcels with situs address attached provided via public records request by local government in El Dorado County California
