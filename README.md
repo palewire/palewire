@@ -41,6 +41,7 @@ repo | description
 
 repo | description
 :----------- | :------------
+[first-automated-chart](https://github.com/palewire/first-automated-chart)|Learn how you can use Python and the Datawrapper API to create a limitless number of charts and maps 
 [first-django-admin](https://github.com/palewire/first-django-admin)|A step-by-step guide to creating a simple web application that empowers you to enlist reporters in data entry and refinement
 [first-github-scraper](https://github.com/palewire/first-github-scraper)|An introduction to free, automated web scraping with GitHub Actions
 [first-pull-request](https://github.com/palewire/first-pull-request)|How to propose changes to open-source software using GitHub pull requests
