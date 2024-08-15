@@ -241,6 +241,8 @@ repo | description
 [iowa-dorling](https://observablehq.com/@palewire/dorling-cartogram-of-iowa-county-populations?collection=@palewire/maps)|An example of a Dorling cartogram mapping the population of Iowa's 99 counties
 [load-d3-data-incrementally-using-sorted-value](https://observablehq.com/@palewire/load-d3-data-incrementally-using-a-sorted-value)|Gradually loads all the cities of California from north to south, and then removes them from south to north.
 [numbers-in-the-newsroom](https://observablehq.com/collection/@palewire/numbers-in-the-newsroom)|Calculators for common newsroom needs, including those featured in Sarah Cohen’s book “Numbers in the Newsroom: Using Math and Statistics in News”
+[observable-framework-cpi-example](https://github.com/palewire/observable-framework-cpi-example/tree/main)|A demonstration of how to deploy an Observable Framework dashboard via GitHub Pages
+[observable-framework-example-loader-canvas-to-png](https://observablehq.observablehq.cloud/framework-example-loader-canvas-to-png/)|Observable data loader to generate PNG from canvas
 [observable-helpers](https://observablehq.com/collection/@palewire/downloaders)|Utilities to help do things
 [spike-chart](https://observablehq.com/@palewire/spike-chart)|This variation on a standard bar chart substitutes in a proportionally sized spike for the traditional rectangle
 [the-ichiro-bet](https://observablehq.com/@palewire/the-ichiro-bet)|The Ichiro Bet
