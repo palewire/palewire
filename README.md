@@ -32,6 +32,7 @@ repo | description
 [amsat-satellite-index](https://gitlab.amsat.org/open-source/amsat-satellite-index)|A searchable, sortable table listing all the ham satellites in space
 [californiacivicdata.org](https://github.com/california-civic-data-coalition/californiacivicdata.org)|The online home of the California Civic Data Coalition|
 [cummings.ee](https://github.com/palewire/cummings.ee)|A collection of the work of Edward Estlin Cummings, as it enters the public domain|
+[moneyinpolitics.wtf](https://github.com/palewire/moneyinpolitics.wtf)|America's most comprehensive dictionary of campaign finance jargon
 [news-homepages](https://github.com/palewire/news-homepages)|An open-source archive that gathers, archives and shares news homepages|
 [palewi.re](https://github.com/palewire/palewi.re)|My blog|
 [savemy.news](https://github.com/palewire/savemy.news)|A personal, permanent clipping service|
