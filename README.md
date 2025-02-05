@@ -207,6 +207,7 @@ repo | description
 [altair-column-sort-example](https://github.com/datadesk/altair-column-sort-example)|An example of how to sort the columns in a bar chart created by the Altair data visualization library
 [altair-election-maps-example](https://github.com/datadesk/altair-election-maps-example)|An experiment in creating precinct-level election results maps using Python's Altair library
 [altair-interactive-scatterplot-example](https://github.com/datadesk/altair-interactive-scatterplot-example)|An example of how to add a tooltip to a scatterplot in Python's Altair charting library
+[climate-data-example](https://github.com/palewire/climate-data-example/tree/main)|An example of how to use the European weather agency's gridded climate data
 [dorling-cartogram-example](https://github.com/palewire/dorling-cartogram-example)|How to calculate a dorling cartogram with Python
 [geopandas-intersection-area-example](https://github.com/datadesk/geopandas-intersection-area-example)|How to use geopandas' overlay method to find the area of intersections between two datasets
 [geopandas-spatial-join-example](https://github.com/datadesk/geopandas-spatial-join-example)|An example of how to join point to polygon data with geopandas and Python
