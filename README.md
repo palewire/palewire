@@ -1,6 +1,6 @@
 ## Hello. My name is Ben Welsh.
 
-I’m an Iowan living in New York City. I am a reporter, an editor and a computer programmer. My job is to use those skills, together, to find and tell stories. 
+I’m an Iowan living in New York City. I work as a reporter, an editor and a computer programmer. My job is to use those skills, together, to find and tell stories. 
 
 This README includes a directory of my open-source computer code on GitHub and other platforms. It does not include the dozens of apps, stories and graphics I've published as part of my journalism career. For that, visit [palewi.re](https://palewi.re/who-is-ben-welsh/) to find my résumé, a database of [my news clips](https://palewi.re/work/) and an archive of [my public-speaking engagements](https://palewi.re/talks/).
 
