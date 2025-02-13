@@ -127,6 +127,7 @@ repo | description
 [los-angeles-county-tsunami-hazard-areas](https://github.com/datadesk/los-angeles-county-tsunami-hazard-areas)|California Geological Survey maps of flooding tsunamis could produce in Los Angeles County
 [noaa-hurricane-hunters-logo](https://github.com/palewire/noaa-hurricane-hunters-logo)|An official logo of NOAA's Hurricane Hunters released via FOIA
 [nrol-39-logo](https://github.com/palewire/nrol-39-logo)|A vector PDF of the official mission logo of NROL-39 released via FOIA
+[nrol-logos](https://github.com/palewire/nrol-logos)|Official logos for National Reconnaissance Office satellite launches released via the Freedom of Information Act
 [nyc-parks-logo](https://github.com/palewire/nyc-parks-logo)|The official logos of NYC Parks released via FOIL
 [regional-connector-art](https://github.com/palewire/regional-connector-art)|Public art created for light rail stations on the Los Angeles Metro's Regional Connector line
 [san-francisco-campaign-contributions](https://github.com/datadesk/san-francisco-campaign-contributions)|Itemized monetary campaign contributions compiled by San Francisco's Ethics Commission
