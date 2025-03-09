@@ -42,12 +42,15 @@ repo | description
 
 repo | description
 :----------- | :------------
+[first-athena-query](https://github.com/palewire/first-athena-query)|How to analyze millions of records in seconds with Amazon Web Services and SQL 
 [first-automated-chart](https://github.com/palewire/first-automated-chart)|Learn how you can use Python and the Datawrapper API to create a limitless number of charts and maps 
 [first-django-admin](https://github.com/palewire/first-django-admin)|A step-by-step guide to creating a simple web application that empowers you to enlist reporters in data entry and refinement
 [first-github-scraper](https://github.com/palewire/first-github-scraper)|An introduction to free, automated web scraping with GitHub Actions
+[first-llm-classifier](https://github.com/palewire/first-llm-classifier)|Learn how journalists use large-language models to organize and analyze massive datasets 
 [first-pull-request](https://github.com/palewire/first-pull-request)|How to propose changes to open-source software using GitHub pull requests
 [first-python-notebook](https://github.com/palewire/first-python-notebook)|A step-by-step guide to analyzing data with Python and the Jupyter Notebook
 [first-visual-story](https://github.com/palewire/first-graphics-app)|A step-by-step guide to publishing a standalone story from a dataset
+[go-big-with-github-actions](https://github.com/palewire/go-big-with-github-actions)|Learn how to scale up your data pipelines using GitHub’s powerful Actions framework 
 
 ### Bots
 
