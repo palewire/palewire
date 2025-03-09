@@ -97,6 +97,7 @@ repo | description
 [la-weedmaps-analysis](https://github.com/datadesk/la-weedmaps-analysis)|Black market cannabis shops thrive in L.A. even as city cracks down
 [literary-notebooks](https://github.com/palewire/literary-notebooks)|Python notebooks exploring Project Gutenberg texts
 [native-american-census-analysis](https://github.com/datadesk/native-american-census-analysis)|The 2020 census is coming. Will Native Americans be counted?
+[news-nerd-repo-analysis](https://github.com/palewire/news-nerd-repo-analysis)|How active are news nerds on GitHub?
 [promenade-west-sales-report](https://github.com/palewire/promenade-west-sales-report)|An analysis of downtown Los Angeles housing prices
 [street-racing-analysis](https://github.com/datadesk/street-racing-analysis)|Street racing fatalities in L.A. County
 [swana-census-analysis](https://github.com/datadesk/swana-census-analysis)|Are Arabs and Iranians white? Census says yes, but many disagree
