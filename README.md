@@ -293,7 +293,6 @@ repo | description
 repo | description
 :----------- | :------------
 [first-news-app](https://github.com/ireapps/first-news-app)|A step-by-step guide to publishing a simple news application
-[first-web-scraper](https://github.com/ireapps/first-web-scraper)|A step-by-step guide to writing a web scraper with Python
 
 ### Bots
 
