@@ -49,6 +49,7 @@ repo | description
 [first-llm-classifier](https://github.com/palewire/first-llm-classifier)|Learn how journalists use large-language models to organize and analyze massive datasets 
 [first-pull-request](https://github.com/palewire/first-pull-request)|How to propose changes to open-source software using GitHub pull requests
 [first-python-notebook](https://github.com/palewire/first-python-notebook)|A step-by-step guide to analyzing data with Python and the Jupyter Notebook
+[first-web-scraper](https://github.com/palewire/first-web-scraper)|A step-by-step guide to writing a web scraper with Python
 [first-visual-story](https://github.com/palewire/first-graphics-app)|A step-by-step guide to publishing a standalone story from a dataset
 [go-big-with-github-actions](https://github.com/palewire/go-big-with-github-actions)|Learn how to scale up your data pipelines using GitHub’s powerful Actions framework 
 
