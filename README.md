@@ -267,6 +267,7 @@ repo | description
 
 repo | description
 :----------- | :------------
+[datawrapper-json-bookmarklet](https://github.com/palewire/datawrapper-json-bookmarklet/)|Quickly access the JSON configuration of your Datawrapper chart
 [dotfiles](https://github.com/palewire/dotfiles)|My configuration files
 [ebook-exports](https://github.com/palewire/ebook-exports)|Export the e.e. cummings free poetry archive to a variety of ebook formats
 [internet-archive-upload](https://github.com/marketplace/actions/upload-files-to-an-archive-org-item)|Upload files to an archive.org item
