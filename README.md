@@ -114,6 +114,7 @@ repo | description
 [california-coronavirus-scrapers](https://github.com/datadesk/california-coronavirus-scrapers)|The open-source web scrapers that feed the Los Angeles Times California coronavirus tracker
 [fed-dot-plot-scraper](https://github.com/palewire/fed-dot-plot-scraper)|Extracting the "dot plot" economic projections posted online by the Federal Open Market Committee
 [noaa-hurricane-gis-scraper](https://github.com/palewire/noaa-hurricane-gis-scraper)|Automated downloads of geographic information system data posted by the National Oceanic and Atmospheric Administration's National Hurricane Center and Central Pacific Hurricane Center
+[wnyc-radio-archive-transcriber](https://github.com/palewire/wnyc-radio-archive-transcriber)|Scrape and transcribe thousands of audio files for free using Python, OpenAI's Whisper, and GitHub Actions
 
 ### Public records requests
 
