@@ -43,7 +43,8 @@ repo | description
 repo | description
 :----------- | :------------
 [first-athena-query](https://github.com/palewire/first-athena-query)|How to analyze millions of records in seconds with Amazon Web Services and SQL 
-[first-automated-chart](https://github.com/palewire/first-automated-chart)|Learn how you can use Python and the Datawrapper API to create a limitless number of charts and maps 
+[first-automated-chart](https://github.com/palewire/first-automated-chart)|Learn how you can use Python and the Datawrapper API to create a limitless number of charts and maps
+[first-basemap](https://github.com/palewire/first-basemap)|Create a shockingly fast and virtually free interactive map of the world using OpenStreetMap and PMTiles
 [first-django-admin](https://github.com/palewire/first-django-admin)|A step-by-step guide to creating a simple web application that empowers you to enlist reporters in data entry and refinement
 [first-github-scraper](https://github.com/palewire/first-github-scraper)|An introduction to free, automated web scraping with GitHub Actions
 [first-llm-classifier](https://github.com/palewire/first-llm-classifier)|Learn how journalists use large-language models to organize and analyze massive datasets 
@@ -57,6 +58,7 @@ repo | description
 
 repo | description
 :----------- | :------------
+[datawrapper-mcp](https://github.com/palewire/datawrapper-mcp)|A Model Context Protocol (MCP) server for creating Datawrapper charts using AI assistants
 [old-la-photos](https://github.com/palewire/old-la-photos)|A bot that posts photographs from the Los Angeles Public Library’s digital collection
 [metar-weather-bot](https://github.com/palewire/metar-weather-bot)|A bot that posts the latest METAR weather report for LAX airport
 [muckrockbot](https://github.com/palewire/muckrockbot)|A bot that posts the latest public records requests filed and completed at muckrock.com
@@ -120,6 +122,7 @@ repo | description
 
 repo | description
 :----------- | :------------
+[557th-weather-wing-emblems](https://github.com/palewire/557th-weather-wing-emblems)|The official logos of the U.S. Air Force's 557th Weather Wing units, obtained via a Freedom of Information Act request 
 [california-business-entities](https://github.com/datadesk/california-business-entities)|Corporations and limited-liability companies registered with the California Secretary of State
 [california-house-members](https://github.com/datadesk/california-house-members)|A simple machine-readable list of the 53 men and women California sends to Congress
 [california-topojson-atlas](https://github.com/datadesk/california-topojson-atlas)|Simple maps of California's 58 counties
@@ -180,6 +183,8 @@ repo | description
 [census-map-consolidator](https://github.com/datadesk/census-map-consolidator)|Combine Census blocks into new shapes
 [census-map-downloader](https://github.com/datadesk/census-map-downloader)|Easily download U.S. census maps
 [cpi](https://github.com/palewire/cpi)|Quickly adjust U.S. dollars for inflation using the Consumer Price Index (CPI)
+[datawrapper](https://github.com/chekos/Datawrapper/)|A light-weight wrapper for the Datawrapper API
+[datawrapper-mcp](https://github.com/palewire/datawrapper-mcp)|A Model Context Protocol (MCP) server for creating Datawrapper charts using AI assistants
 [django-anss-archive](https://github.com/palewire/django-anss-archive)|Archive real-time earthquake notifications from the USGS's Advanced National Seismic System
 [django-bakery](https://github.com/palewire/django-bakery)|A set of helpers for baking your Django site out as flat files
 [django-calaccess-downloads-website](https://github.com/california-civic-data-coalition/django-calaccess-downloads-website)|An open-source archive of campaign finance and lobbying disclosure data from the California Secretary of State’s CAL-ACCESS database
