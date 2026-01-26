@@ -42,6 +42,7 @@ repo | description
 
 repo | description
 :----------- | :------------
+[cuny-jour-73361-coding-the-news](https://github.com/palewire/cuny-jour-73361-coding-the-news)|The syllabus for "JOUR 73361: Coding the News," a course taught at the City University of New York's Craig Newmark Graduate School of Journalism 
 [first-athena-query](https://github.com/palewire/first-athena-query)|How to analyze millions of records in seconds with Amazon Web Services and SQL 
 [first-automated-chart](https://github.com/palewire/first-automated-chart)|Learn how you can use Python and the Datawrapper API to create a limitless number of charts and maps
 [first-basemap](https://github.com/palewire/first-basemap)|Create a shockingly fast and virtually free interactive map of the world using OpenStreetMap and PMTiles
