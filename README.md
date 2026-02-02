@@ -19,6 +19,7 @@ This README includes a directory of my open-source computer code on GitHub and o
   - [Packages](#packages)
   - [Examples](#examples)
 + [JavaScript](#javascript)
+  - [Templates](#templates-1)
   - [Examples](#examples-1)
 + [Other stuff](#other-stuff)
 + [Inactive projects](#inactive-projects)
@@ -232,6 +233,12 @@ repo | description
 [random-tract](https://github.com/palewire/random-tract)|A Python hack to respond to a Twitter challenge to "select a random geographic point in the US, with the probability weighted by population."
 
 ## JavaScript
+
+### Templates
+
+repo | description
+:----------- | :------------
+[cuny-jour-static-site-template]([palewire/cuny-jour-static-site-template](https://github.com/palewire/cuny-jour-static-site-template))|A simple SvelteKit starter template for "JOUR 73361: Coding the News," a course taught at the City University of New York's Craig Newmark Graduate School of Journalism 
 
 ### Examples
 
