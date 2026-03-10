@@ -50,6 +50,7 @@ repo | description
 [first-django-admin](https://github.com/palewire/first-django-admin)|A step-by-step guide to creating a simple web application that empowers you to enlist reporters in data entry and refinement
 [first-github-scraper](https://github.com/palewire/first-github-scraper)|An introduction to free, automated web scraping with GitHub Actions
 [first-llm-classifier](https://github.com/palewire/first-llm-classifier)|Learn how journalists use large-language models to organize and analyze massive datasets 
+[first-pmtiles-map](https://github.com/palewire/first-pmtiles-map/)|Learn how to display a massive dataset on an interactive map using PMTiles and Maplibre 
 [first-pull-request](https://github.com/palewire/first-pull-request)|How to propose changes to open-source software using GitHub pull requests
 [first-python-notebook](https://github.com/palewire/first-python-notebook)|A step-by-step guide to analyzing data with Python and the Jupyter Notebook
 [first-web-scraper](https://github.com/palewire/first-web-scraper)|A step-by-step guide to writing a web scraper with Python
@@ -285,6 +286,7 @@ repo | description
 [dotfiles](https://github.com/palewire/dotfiles)|My configuration files
 [ebook-exports](https://github.com/palewire/ebook-exports)|Export the e.e. cummings free poetry archive to a variety of ebook formats
 [internet-archive-upload](https://github.com/marketplace/actions/upload-files-to-an-archive-org-item)|Upload files to an archive.org item
+[ire-archive-slide-deck](https://github.com/palewire/ire-archive-slide-deck)|A presentation marking the release of archive.ire.org at the NICAR 26 conference in Indianapolis
 [is-5](https://github.com/palewire/is-5)|Page scans of E.E. Cummings’ 1926 book of verse
 [tulips-and-chimneys](https://github.com/palewire/tulips-and-chimneys)|Page scans of E.E. Cummings’ first published book of verse
 
