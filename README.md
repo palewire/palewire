@@ -288,6 +288,7 @@ repo | description
 [internet-archive-upload](https://github.com/marketplace/actions/upload-files-to-an-archive-org-item)|Upload files to an archive.org item
 [ire-archive-slide-deck](https://github.com/palewire/ire-archive-slide-deck)|A presentation marking the release of archive.ire.org at the NICAR 26 conference in Indianapolis
 [is-5](https://github.com/palewire/is-5)|Page scans of E.E. Cummings’ 1926 book of verse
+[nyc-hpd-bronx-lead-paint-violations](https://github.com/palewire/nyc-hpd-bronx-lead-paint-violations)|Download and process housing code lead paint violations in the Bronx from NYC Open Data
 [tulips-and-chimneys](https://github.com/palewire/tulips-and-chimneys)|Page scans of E.E. Cummings’ first published book of verse
 
 ## Inactive projects
