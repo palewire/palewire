@@ -287,6 +287,7 @@ repo | description
 [datawrapper-json-bookmarklet](https://github.com/palewire/datawrapper-json-bookmarklet/)|Quickly access the JSON configuration of your Datawrapper chart
 [dotfiles](https://github.com/palewire/dotfiles)|My configuration files
 [ebook-exports](https://github.com/palewire/ebook-exports)|Export the e.e. cummings free poetry archive to a variety of ebook formats
+[elgar-ringtones](https://github.com/palewire/elgar-ringtones)|Ringtone and notification clips cut from Elgar's Cello Concerto
 [internet-archive-upload](https://github.com/marketplace/actions/upload-files-to-an-archive-org-item)|Upload files to an archive.org item
 [ire-archive-slide-deck](https://github.com/palewire/ire-archive-slide-deck)|A presentation marking the release of archive.ire.org at the NICAR 26 conference in Indianapolis
 [is-5](https://github.com/palewire/is-5)|Page scans of E.E. Cummings’ 1926 book of verse
