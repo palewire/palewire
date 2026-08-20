@@ -31,8 +31,10 @@ This README includes a directory of my open-source computer code on GitHub and o
 repo | description
 :----------- | :------------
 [amsat-satellite-index](https://gitlab.amsat.org/open-source/amsat-satellite-index)|A searchable, sortable table listing all the ham satellites in space
-[californiacivicdata.org](https://github.com/california-civic-data-coalition/californiacivicdata.org)|The online home of the California Civic Data Coalition
+[californiacivicdata.org](https://github.com/palewire/californiacivicdata.org)|The online home of the California Civic Data Coalition
 [cummings.ee](https://github.com/palewire/cummings.ee)|A collection of the work of Edward Estlin Cummings, as it enters the public domain
+[cuny-jour-critique-wheel](https://github.com/palewire/cuny-jour-critique-wheel)|An interactive tool for randomly managing in-class critique sessions
+[datasette](https://github.com/palewire/datasette)|A Datasette instance hosting public records gathered by palewi.re
 [fivethirtyeightindex.com](https://github.com/palewire/fivethirtyeightindex.com)|An index of pages published by FiveThirtyEight
 [kip.computer](https://github.com/kip-claw/kip-claw)|My AI assistant Kip's homepage
 [moneyinpolitics.wtf](https://github.com/palewire/moneyinpolitics.wtf)|America's most comprehensive dictionary of campaign finance jargon
@@ -55,8 +57,8 @@ repo | description
 [first-pmtiles-map](https://github.com/palewire/first-pmtiles-map/)|Learn how to display a massive dataset on an interactive map using PMTiles and Maplibre 
 [first-pull-request](https://github.com/palewire/first-pull-request)|How to propose changes to open-source software using GitHub pull requests
 [first-python-notebook](https://github.com/palewire/first-python-notebook)|A step-by-step guide to analyzing data with Python and the Jupyter Notebook
+[first-visual-story](https://github.com/palewire/first-visual-story)|A step-by-step guide to publishing a standalone story from a dataset
 [first-web-scraper](https://github.com/palewire/first-web-scraper)|A step-by-step guide to writing a web scraper with Python
-[first-visual-story](https://github.com/palewire/first-graphics-app)|A step-by-step guide to publishing a standalone story from a dataset
 [go-big-with-github-actions](https://github.com/palewire/go-big-with-github-actions)|Learn how to scale up your data pipelines using GitHub’s powerful Actions framework 
 
 ### Bots
@@ -64,13 +66,14 @@ repo | description
 repo | description
 :----------- | :------------
 [datawrapper-mcp](https://github.com/palewire/datawrapper-mcp)|A Model Context Protocol (MCP) server for creating Datawrapper charts using AI assistants
-[old-la-photos](https://github.com/palewire/old-la-photos)|A bot that posts photographs from the Los Angeles Public Library’s digital collection
 [metar-weather-bot](https://github.com/palewire/metar-weather-bot)|A bot that posts the latest METAR weather report for LAX airport
 [muckrockbot](https://github.com/palewire/muckrockbot)|A bot that posts the latest public records requests filed and completed at muckrock.com
+[news-homepages-runner](https://github.com/palewire/news-homepages-runner)|A task runner for the homepages.news open-source archive
 [nyc-open-data-monitor](https://github.com/palewire/nyc-open-data-monitor)|Automated monitoring of new and updated datasets posted to New York City's data portal
-[reuters-jobs](https://github.com/palewire/reuters-jobs)|A bot that posts the latest open jobs at Reuters
+[old-la-photos](https://github.com/palewire/old-la-photos)|A bot that posts photographs from the Los Angeles Public Library’s digital collection
 [random-pigeon-gpt](https://github.com/palewire/random-pigeon-gpt)| A bot that posts AI-generated images of New York City pigeons generated using random adjectives
-[sanborn-maps-bot](https://github.com/palewire/sanborn-maps-bot)|A bot that posts random images from the Library of Congress collection of Sanborn Fire Insurance Company maps
+[reuters-jobs](https://github.com/palewire/reuters-jobs)|A bot that posts the latest open jobs at Reuters
+[sanbornmaps](https://github.com/palewire/sanbornmaps)|A bot that posts random images from the Library of Congress collection of Sanborn Fire Insurance Company maps
 
 ## Data
 
@@ -78,6 +81,7 @@ repo | description
 
 repo | description
 :----------- | :------------
+[amsat-status-page-survey](https://github.com/palewire/amsat-status-page-survey)|Analysis of the AMSAT Satellite Status Page user survey
 [baseball-notebooks](https://github.com/palewire/baseball-notebooks)|Python notebooks exploring Major League Baseball data
 [california-crop-production-wages-analysis](https://github.com/datadesk/california-crop-production-wages-analysis)|Crop worker pay in California
 [california-electricity-capacity-analysis](https://github.com/datadesk/california-electricity-capacity-analysis)|California's costly power glut
@@ -105,7 +109,7 @@ repo | description
 [literary-notebooks](https://github.com/palewire/literary-notebooks)|Python notebooks exploring Project Gutenberg texts
 [native-american-census-analysis](https://github.com/datadesk/native-american-census-analysis)|The 2020 census is coming. Will Native Americans be counted?
 [nl-west-2022-race-analysis](https://github.com/palewire/nl-west-2022-race-analysis)|The Dodgers and Padres were tied for first on June 22. Here's what happened next.
-[news-nerd-repo-analysis](https://github.com/palewire/news-nerd-repo-analysis)|How active are news nerds on GitHub?
+[open-source-news-analysis](https://github.com/palewire/open-source-news-analysis)|How active are news nerds on GitHub?
 [promenade-west-sales-report](https://github.com/palewire/promenade-west-sales-report)|An analysis of downtown Los Angeles housing prices
 [street-racing-analysis](https://github.com/datadesk/street-racing-analysis)|Street racing fatalities in L.A. County
 [swana-census-analysis](https://github.com/datadesk/swana-census-analysis)|Are Arabs and Iranians white? Census says yes, but many disagree
@@ -177,41 +181,41 @@ repo | description
 
 repo | description
 :----------- | :------------
-[air-quality-index](https://github.com/palewire/air-quality-index)|Download air quality index data from AirNow
-[altair](https://github.com/altair-viz/altair)|Declarative statistical visualization library for Python
-[atcf-data-parser](https://github.com/palewire/atcf-data-parser)|Parser for the a-deck data posted online by the Automated Tropical Cyclone Forecasting System
+[air-quality-index](https://github.com/datadesk/air-quality-index)|Download air quality index data from AirNow
+[altair](https://github.com/vega/altair)|Declarative statistical visualization library for Python
 [archiveis](https://github.com/palewire/archiveis)|A simple Python wrapper for the archive.is capturing service
-[calfire-wildfires](https://github.com/palewire/calfire-wildfires)|Download wildfires data from CalFire
+[atcf-data-parser](https://github.com/palewire/atcf-data-parser)|Parser for the a-deck data posted online by the Automated Tropical Cyclone Forecasting System
+[calfire-wildfires](https://github.com/datadesk/calfire-wildfires)|Download wildfires data from CalFire
 [census-data-aggregator](https://github.com/datadesk/census-data-aggregator)|Combine U.S. census data responsibly
 [census-data-downloader](https://github.com/datadesk/census-data-downloader)|Download U.S. census data and reformat it for humans
 [census-error-analyzer](https://github.com/datadesk/census-error-analyzer)|Analyze the margin of error in U.S. census data
 [census-map-consolidator](https://github.com/datadesk/census-map-consolidator)|Combine Census blocks into new shapes
 [census-map-downloader](https://github.com/datadesk/census-map-downloader)|Easily download U.S. census maps
+[censusbatchgeocoder](https://github.com/palewire/censusbatchgeocoder)|A simple Python wrapper for U.S. Census Geocoding Services API batch service|
 [cpi](https://github.com/palewire/cpi)|Quickly adjust U.S. dollars for inflation using the Consumer Price Index (CPI)
 [datawrapper](https://github.com/chekos/Datawrapper/)|A light-weight wrapper for the Datawrapper API
-[datawrapper-mcp](https://github.com/palewire/datawrapper-mcp)|A Model Context Protocol (MCP) server for creating Datawrapper charts using AI assistants
 [django-anss-archive](https://github.com/palewire/django-anss-archive)|Archive real-time earthquake notifications from the USGS's Advanced National Seismic System
 [django-bakery](https://github.com/palewire/django-bakery)|A set of helpers for baking your Django site out as flat files
-[django-calaccess-downloads-website](https://github.com/california-civic-data-coalition/django-calaccess-downloads-website)|An open-source archive of campaign finance and lobbying disclosure data from the California Secretary of State’s CAL-ACCESS database
-[django-calaccess-raw-data](https://github.com/california-civic-data-coalition/django-calaccess-raw-data)|A Django app to download, extract and load campaign finance and lobbying activity data from the California Secretary of State's CAL-ACCESS database
-[django-calaccess-processed-data](https://github.com/california-civic-data-coalition/django-calaccess-processed-data)|A Django app to transform and refine campaign-finance data from the California Secretary of State’s CAL-ACCESS database
-[django-calaccess-scraped-data](https://github.com/california-civic-data-coalition/django-calaccess-scraped-data)|A Django app to scrape campaign-finance data from the California Secretary of State’s CAL-ACCESS website
-[django-calaccess-technical-documentation](https://github.com/california-civic-data-coalition/django-calaccess-technical-documentation)|Technical documentation for our pipeline of Django apps that download, extract, load and process the CAL-ACCESS database
+[django-calaccess-downloads-website](https://github.com/palewire/django-calaccess-downloads-website)|An open-source archive of campaign finance and lobbying disclosure data from the California Secretary of State’s CAL-ACCESS database
+[django-calaccess-processed-data](https://github.com/palewire/django-calaccess-processed-data)|A Django app to transform and refine campaign-finance data from the California Secretary of State’s CAL-ACCESS database
+[django-calaccess-raw-data](https://github.com/palewire/django-calaccess-raw-data)|A Django app to download, extract and load campaign finance and lobbying activity data from the California Secretary of State's CAL-ACCESS database
+[django-calaccess-scraped-data](https://github.com/palewire/django-calaccess-scraped-data)|A Django app to scrape campaign-finance data from the California Secretary of State’s CAL-ACCESS website
+[django-calaccess-technical-documentation](https://github.com/palewire/django-calaccess-technical-documentation)|Technical documentation for our pipeline of Django apps that download, extract, load and process the CAL-ACCESS database
 [django-greeking](https://github.com/palewire/django-greeking)|Django template tools for printing filler, a technique from the days of hot type known as greeking|
-[django-internetarchive-storage](https://github.com/california-civic-data-coalition/django-internetarchive-storage)|A custom Django storage system for Internet Archive collections
-[django-postgres-copy](https://github.com/california-civic-data-coalition/django-postgres-copy)|Quickly import and export delimited data with Django support for PostgreSQL's COPY command
+[django-internetarchive-storage](https://github.com/palewire/django-internetarchive-storage)|A custom Django storage system for Internet Archive collections
+[django-postgres-copy](https://github.com/palewire/django-postgres-copy)|Quickly import and export delimited data with Django support for PostgreSQL's COPY command
 [django-yamlfield](https://github.com/palewire/django-yamlfield)|A Django database field for storing YAML data
-[inciweb-wildfires](https://github.com/palewire/inciweb-wildfires)|Download wildfire data from inciweb
+[geodataframe-to-pmtiles](https://github.com/palewire/geodataframe-to-pmtiles)|Write PMTiles archives from GeoPandas GeoDataFrames with a Python API
+[inciweb-wildfires](https://github.com/datadesk/inciweb-wildfires)|Download wildfire data from inciweb
 [install-python-pipenv-pipfile](https://github.com/palewire/install-python-pipenv-pipfile)|Easily install Python, pipenv and Pipfile packages in your GitHub Action
 [ipsos-credibility-interval](https://github.com/palewire/ipsos-credibility-interval)|Calculate Bayesian credibility intervals for online polling using the Ipsos method
 [isobands](https://github.com/palewire/isobands)|An easy way to make filled contour maps with Python
 [mlbcolors](https://github.com/palewire/mlbcolors)|Easy access to the official colors of every team in Major League Baseball
-[nasa-wildfires](https://github.com/palewire/nasa-wildfires)|Download wildfire data from NASA satellites
-[nifc-wildfires](https://github.com/palewire/nifc-wildfires)|Download wildfires data from NIFC
-[noaa-wildfires](https://github.com/palewire/noaa-wildfires)|Download wildfires data from NOAA satellites
+[nasa-wildfires](https://github.com/datadesk/nasa-wildfires)|Download wildfire data from NASA satellites
+[nifc-wildfires](https://github.com/datadesk/nifc-wildfires)|Download wildfires data from NIFC
+[noaa-wildfires](https://github.com/datadesk/noaa-wildfires)|Download wildfires data from NOAA satellites
 [nws-aurora](https://github.com/palewire/nws-aurora)|Download forecast data for Aurora Borealis and Aurora Australis from the National Weather Service
-[nws-wwa](https://github.com/palewire/nws-wwa)|Download watch, warning and advisory data from the National Weather Service
-[python-censusbatchgeocoder](https://github.com/palewire/python-censusbatchgeocoder)|A simple Python wrapper for U.S. Census Geocoding Services API batch service|
+[nws-wwa](https://github.com/datadesk/nws-wwa)|Download watch, warning and advisory data from the National Weather Service
 [python-googlegeocoder](https://github.com/palewire/python-googlegeocoder)|A simple Python wrapper for version three of Google's geocoder API
 [python-muckrock](https://github.com/palewire/python-muckrock)|A simple Python wrapper for the MuckRock API
 [reuters-style](https://github.com/palewire/reuters-style)|A Python library format dates, numbers and text to conform with the Reuters Style Guide, the standards that guide the world's largest independent newsroom 
@@ -235,6 +239,7 @@ repo | description
 [pandas-combine-workbooks-example](https://github.com/palewire/pandas-combine-workbooks-example)|How to use Python's pandas library to combine tabs from multiple Microsoft Excel workbooks into a single CSV
 [pandas-squarify-example](https://github.com/datadesk/pandas-squarify-example)|How to use the squarify extension to matplotlib to visualize a pandas DataFrame as a treemap
 [random-tract](https://github.com/palewire/random-tract)|A Python hack to respond to a Twitter challenge to "select a random geographic point in the US, with the probability weighted by population."
+[refinitiv-data-python-cookbook](https://github.com/palewire/refinitiv-data-python-cookbook)|Practical examples for users of the LSEG Data Library for Python
 
 ## JavaScript
 
@@ -242,7 +247,8 @@ repo | description
 
 repo | description
 :----------- | :------------
-[cuny-jour-static-site-template]([palewire/cuny-jour-static-site-template](https://github.com/palewire/cuny-jour-static-site-template))|A simple SvelteKit starter template for "JOUR 73361: Coding the News," a course taught at the City University of New York's Craig Newmark Graduate School of Journalism 
+[cuny-jour-static-site-template](https://github.com/palewire/cuny-jour-static-site-template)|A simple SvelteKit starter template for "JOUR 73361: Coding the News," a course taught at the City University of New York's Craig Newmark Graduate School of Journalism
+[fullpage-app-template](https://github.com/palewire/fullpage-app-template)|A template for building and deploying fullpage custom news apps for THE CITY
 
 ### Examples
 
@@ -302,6 +308,7 @@ repo | description
 repo | description
 :----------- | :------------
 [boundaries.latimes.com](https://github.com/datadesk/boundaries.latimes.com)|An API that serves up local GIS data
+[campaign_finance](https://github.com/palewire/campaign_finance)|A CalMatters dashboard for California campaign-finance data
 [documentstacker](https://github.com/datadesk/latimes-document-stacker)|Use DocumentCloud to publish PDFs for humans
 [nicar18-datadesk-family-reunion](https://github.com/palewire/nicar18-datadesk-family-reunion)|Los Angeles Times Data Desk Reunion @ NICAR 2018
 [nicar19-datadesk-family-reunion](https://github.com/palewire/nicar19-datadesk-family-reunion)|Los Angeles Times Data Desk Reunion @ NICAR 2019
@@ -314,7 +321,7 @@ repo | description
 
 repo | description
 :----------- | :------------
-[first-news-app](https://github.com/ireapps/first-news-app)|A step-by-step guide to publishing a simple news application
+[first-news-app](https://github.com/palewire/first-news-app)|A step-by-step guide to publishing a simple news application
 
 ### Bots
 
@@ -325,15 +332,14 @@ repo | description
 [mistadobalina](https://github.com/palewire/twitter-mistadobalina)|A script that posts raps by Del Tha Funkee Homosapien to @MISTADOBALINA on Twitter
 [mlb-postseason-bot](https://github.com/palewire/mlb-postseason-bot)|Twitter bot that posts daily updates on a team’s chance to make the Major League Baseball postseason
 [questionheds](https://github.com/palewire/questionheds)|A feed of headlines with question marks in them
-[trump-tweets](https://github.com/palewire/trump-tweets)|All @RealDonaldTrump tweets stored at trumptwitterarchive.com in a single JSON
 
 ### Templates
 
 repo | description
 :----------- | :------------
 [appengine-template](https://github.com/datadesk/latimes-appengine-template)|Bootstrap a Google App Engine project with Django and other goodies
+[django-calaccess-project-template](https://github.com/palewire/django-calaccess-project-template)|A custom template for initializing a new Django project with the California Civic Data Coalition's applications for analyzing the California Secretary of State’s CAL-ACCESS database|
 [django-project-template](https://github.com/palewire/django-project-template)|A custom template for initializing a new Django project the Data Desk way|
-[django-calaccess-project-template](https://github.com/california-civic-data-coalition/django-calaccess-project-template)|A custom template for initializing a new Django project with the California Civic Data Coalition's applications for analyzing the California Secretary of State’s CAL-ACCESS database|
 
 ### Packages
 
@@ -343,10 +349,10 @@ repo | description
 [calculate](https://github.com/datadesk/latimes-calculate)|Some simple math we use to do journalism
 [django-a-matter](https://github.com/palewire/django-a-matter)|An app for authoring background biographical matter on newsworthy people|
 [django-autoarchive](https://github.com/palewire/django-autoarchive)|Django helpers for automatically archiving URLs|
-[django-calaccess-campaign-browser](https://github.com/california-civic-data-coalition/django-calaccess-campaign-browser)|A Django app to refine, review and republish campaign finance data drawn from the California Secretary of State’s CAL-ACCESS database|
-[django-calaccess-cookbook](https://github.com/california-civic-data-coalition/django-calaccess-cookbook)|A Chef cookbook and Fabfile for deploying the California Civic Data Coalition's applications for analyzing the California Secretary of State’s CAL-ACCESS database on Amazon Web Services|
-[django-calaccess-docker](https://github.com/california-civic-data-coalition/django-calaccess-docker)|A standalone Docker stack serving the California Civic Data Coalition's applications for analyzing the California Secretary of State’s CAL-ACCESS database|
-[django-calaccess-lobbying-browser](https://github.com/california-civic-data-coalition/django-calaccess-lobbying-browser)|A simple Django app browse California lobbying activity data from CAL-ACCESS|
+[django-calaccess-campaign-browser](https://github.com/palewire/django-calaccess-campaign-browser)|A Django app to refine, review and republish campaign finance data drawn from the California Secretary of State’s CAL-ACCESS database|
+[django-calaccess-cookbook](https://github.com/palewire/django-calaccess-cookbook)|A Chef cookbook and Fabfile for deploying the California Civic Data Coalition's applications for analyzing the California Secretary of State’s CAL-ACCESS database on Amazon Web Services|
+[django-calaccess-docker](https://github.com/palewire/django-calaccess-docker)|A standalone Docker stack serving the California Civic Data Coalition's applications for analyzing the California Secretary of State’s CAL-ACCESS database|
+[django-calaccess-lobbying-browser](https://github.com/palewire/django-calaccess-lobbying-browser)|A simple Django app browse California lobbying activity data from CAL-ACCESS|
 [django-correx](https://github.com/palewire/django-correx)|A set of models and template tags for pulling in lists of content changes across applications|
 [django-memento-framework](https://github.com/palewire/django-memento-framework)|A set for helpers for Django web sites to enable the Memento framework for time-based access|
 [django-orchestral-motion-db](https://github.com/orchestral-motion/django-orchestral-motion-db)|A Django channels app for receiving live motion data from an accelerometer|
@@ -363,7 +369,7 @@ repo | description
 [pyplacefinder](https://github.com/datadesk/pyplacefinder)|A very simple wrapper for Yahoo PlaceFinder
 [python-elections](https://github.com/datadesk/python-elections)|A Python wrapper for the Associated Press' U.S. election data service
 [qiklog](https://github.com/datadesk/latimes-qiklog)|A simplified wrapper for Python's logging module
-[scrapy-calaccess-crawler](https://github.com/california-civic-data-coalition/scrapy-calaccess-crawler)|A Scrapy app to scrape campaign-finance data from the California Secretary of State’s CAL-ACCESS website|
+[scrapy-calaccess-crawler](https://github.com/palewire/scrapy-calaccess-crawler)|A Scrapy app to scrape campaign-finance data from the California Secretary of State’s CAL-ACCESS website|
 [statestyle](https://github.com/datadesk/latimes-statestyle)|A Python library that standardizes the names of U.S. states
 [storytracker](https://github.com/palewire/storytracker)|Tools for tracking stories on news homepages|
 [webcitation](https://github.com/palewire/webcitation)|A simple Python wrapper for the webcitation.org capturing service|
@@ -375,13 +381,14 @@ repo | description
 :----------- | :------------
 [california-k12-notebooks](https://github.com/datadesk/california-k12-notebooks)|Scripts to download and process California K12 schools data
 [chirp-ham-radio-channels](https://github.com/palewire/chirp-ham-radio-channels)|Channels formatted for the CHIRP amateur radio programming system
-[first-python-notebook-binder](https://github.com/california-civic-data-coalition/first-python-notebook-binder)|A template for deploying "First Python Notebook" with Binder|
+[earthquake-risk-3d-model](https://github.com/palewire/earthquake-risk-3d-model)|A ready-to-print, three-dimensional model of U.S. seismic risk built from USGS data
+[first-python-notebook-binder](https://github.com/palewire/first-python-notebook-binder)|A template for deploying "First Python Notebook" with Binder|
 [ire2010](https://github.com/palewire/ire2010)|Class materials for the Django bootcamp at the IRE 2010 conference in Las Vegas|
 [nicar2010](https://github.com/palewire/nicar2010)|Materials from the Django bootcamp at NICAR 2010|
 [nicar2011](https://github.com/palewire/nicar2011)|An example Django app for a class at the NICAR 2011 conference|
-[python-calaccess-notebooks](https://github.com/california-civic-data-coalition/python-calaccess-notebooks)|Python notebooks analyzing campaign finance and lobbying activity data from California Secretary of State’s CAL-ACCESS database|
 [osm-quiet-la](https://github.com/datadesk/osm-la-streets)|A street-centric base layer for overlaying point data about Southern California
 [osm-silent-la](https://github.com/datadesk/osm-silent-la)|A template for a black base layer about Southern California
+[python-calaccess-notebooks](https://github.com/palewire/python-calaccess-notebooks)|Python notebooks analyzing campaign finance and lobbying activity data from California Secretary of State’s CAL-ACCESS database|
 [sopr-activity](https://github.com/palewire/sopr-activity)|A quick and dirty script for pulling down lobby disclosure docs filed with the Senate Office of Public Records|
 [sopr-contribs](https://github.com/palewire/sopr-contribs)|Scripts for processing and analyzing federal lobbyist disclosure data reporting contributions to political campaigns|
 [the-mondesi-bet](https://github.com/palewire/the-mondesi-bet)|The Mondesi Bet
