@@ -42,6 +42,7 @@ repo | description
 [palewi.re](https://github.com/palewire/palewi.re)|My blog
 [savemy.news](https://github.com/palewire/savemy.news)|A personal, permanent clipping service
 [studs-terkel-podcast](https://github.com/palewire/studs-terkel-podcast)|Selections from WFMT's Studs Terkel Radio Archive delivered to your podcatcher
+[trmnl-jazz-lineup](https://github.com/kip-claw/trmnl-jazz-lineup)|A TRMNL recipe that brings JazzLineup.com's New York City jazz listings to an e-ink display
 
 ### Lesson plans
 
