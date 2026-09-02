@@ -88,6 +88,7 @@ repo | description
 [california-electricity-capacity-analysis](https://github.com/datadesk/california-electricity-capacity-analysis)|California's costly power glut
 [california-fire-zone-analysis](https://github.com/datadesk/california-fire-zone-analysis)|California buildings within fire hazard zones
 [california-h2a-visas-analysis](https://github.com/datadesk/california-h2a-visas-analysis)|Temporary visas granted to foreign agricultural workers
+[cee-agriculture-climate-analysis](https://github.com/palewire/cee-agriculture-climate-analysis)|Data and notebook behind Reuters analysis of June-July temperatures in Central and Eastern Europe
 [census-hard-to-map-analysis](https://github.com/datadesk/census-hard-to-map-analysis)|A census undercount could cost California billions — and L.A. is famously hard to track
 [cfb-gap-analysis](https://github.com/palewire/cfb-gap-analysis)|College football's most imbalanced teams
 [chicago-regions-map](https://github.com/palewire/chicago-regions-map)|Creates a regional map of Chicago based on the city's official designations
