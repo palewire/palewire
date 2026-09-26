@@ -98,6 +98,7 @@ repo | description
 [deadspin-scraper](https://github.com/datadesk/deadspin-scraper)|Scrape posts from Deadspin
 [deleon-district-election-results-analysis](https://github.com/datadesk/deleon-district-election-results-analysis)|How former state Sen. Kevin de León fared in his own district
 [drudge-domain-analysis](https://github.com/palewire/drudge-domain-analysis)|A simple example of using storytracker and the PastPages API to conduct a link analysis
+[european-marine-heatwave-analysis](https://github.com/palewire/european-marine-heatwave-analysis)|Data and code supporting a Reuters analysis of European sea-surface temperatures
 [faa-drone-license-analysis](https://github.com/palewire/faa-drone-license-analysis)|Who can fly commercially?
 [ferc-enforcement-analysis](https://github.com/datadesk/ferc-enforcement-analysis)|Civil penalties issued by FERC
 [helicopter-accident-analysis](https://github.com/datadesk/helicopter-accident-analysis)|A Los Angeles Times analysis of helicopter accident rates
