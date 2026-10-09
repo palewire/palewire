@@ -61,6 +61,8 @@ repo | description
 [first-visual-story](https://github.com/palewire/first-visual-story)|A step-by-step guide to publishing a standalone story from a dataset
 [first-web-scraper](https://github.com/palewire/first-web-scraper)|A step-by-step guide to writing a web scraper with Python
 [go-big-with-github-actions](https://github.com/palewire/go-big-with-github-actions)|Learn how to scale up your data pipelines using GitHub’s powerful Actions framework 
+[sva-dvc-3342a-slide-deck](https://github.com/palewire/sva-dvc-3342a-slide-deck)|Reusable SVA Truth-Telling 101 lecture deck starter built with SvelteKit and Reveal.js
+[sva-dvc-3342a-truth-telling-101](https://github.com/palewire/sva-dvc-3342a-truth-telling-101)|The syllabus for "DVC-3342-A: Truth-Telling 101," a continuing education course taught at the School of Visual Arts.
 
 ### Bots
 
