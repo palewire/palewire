@@ -34,6 +34,7 @@ repo | description
 [californiacivicdata.org](https://github.com/palewire/californiacivicdata.org)|The online home of the California Civic Data Coalition
 [cummings.ee](https://github.com/palewire/cummings.ee)|A collection of the work of Edward Estlin Cummings, as it enters the public domain
 [cuny-jour-critique-wheel](https://github.com/palewire/cuny-jour-critique-wheel)|An interactive tool for randomly managing in-class critique sessions
+[data-journalism-survey-site](https://github.com/palewire/data-journalism-survey-site)|A searchable index of data-journalism courses taught at schools worldwide
 [datasette](https://github.com/palewire/datasette)|A Datasette instance hosting public records gathered by palewi.re
 [fivethirtyeightindex.com](https://github.com/palewire/fivethirtyeightindex.com)|An index of pages published by FiveThirtyEight
 [kip.computer](https://github.com/kip-claw/kip-claw)|My AI assistant Kip's homepage
